@@ -1,0 +1,122 @@
+T58	Sender 1178 1181	you
+T59	Attribute 1220 1232	the location
+T60	Attribute 1305 1324	 the weather detail
+T61	Attribute 1377 1401	 the contact information
+T62	Recipient 1155 1157	We
+T63	Transmission_Principle 1178 1195	you provide to us
+E23	Transmission_Principle:T63 
+T64	Transmission_Principle 1244 1302	 when requesting a forecast or submitting a weather report
+E24	Transmission_Principle:T64 
+T65	Transmission_Principle 1337 1370	 when submitting a weather report
+E25	Transmission_Principle:T65 
+T66	Transmission_Principle 1414 1444	when contacting us for support
+E26	Transmission_Principle:T66 
+*	F11 T65 T62 T64 T63 T66 T59 T58 T61 T60
+T67	Subject 1522 1525	you
+T68	Attribute 1500 1525	information regarding you
+T69	Attribute 1500 1512;1530 1556	information  your interactions with us,
+T70	Attribute 1500 1522;1557 1581	information regarding  your use of the Service,
+T71	Attribute 1593 1628	information regarding your computer
+T72	Attribute 1593 1615;1632 1672	information regarding  other device used to access the Service.
+T73	Attribute 1705 1733	your activity on the Service
+T74	Attribute 1737 1763	the type of device you use
+T75	Attribute 1765 1794	the IP address of your device
+T76	Attribute 1796 1817	your operating system
+T77	Attribute 1822 1874	 the details concerning the Internet browsers you us
+T78	Attribute 1879 1900	your current location
+T79	Attribute 1980 1995	 your device ID
+T80	Attribute 2027 2041	 pressure data
+T81	Attribute 2060 2079	a Dark Sky debug ID
+T82	Recipient 1484 1486	We
+T83	Transmission_Principle 1901 1921	for use in forecasts
+E27	Transmission_Principle:T83 
+T84	Transmission_Principle 1900 1912;1923 1939	 for use in  weather reports,
+E28	Transmission_Principle:T84 
+T85	Transmission_Principle 1901 1912;1940 1959	for use in  pressure reporting,
+E29	Transmission_Principle:T85 
+T86	Transmission_Principle 1901 1912;1963 1978	for use in   notifications;
+E30	Transmission_Principle:T86 
+T87	Transmission_Principle 1996 2024	if notifications are enabled
+E31	Transmission_Principle:T87 
+T88	Transmission_Principle 2042 2052	if enabled
+E32	Transmission_Principle:T88 
+*	F12 T75 T82 T77 T85 T71 T78 T84 T81 T68 T80 T76 T86 T74 T72 T67 T83 T73 T70 T69 T79 T87 T88
+T89	Attribute 2293 2315	information we collect
+T90	Recipient 2282 2284	We
+T91	Transmission_Principle 2316 2385	to provide, analyze, administer, enhance, and personalize the Service
+E33	Transmission_Principle:T91 
+T92	Transmission_Principle 2481 2523	providing weather conditions and forecasts
+E34	Transmission_Principle:T92 
+T93	Transmission_Principle 2527 2573	sending weather notifications per your request
+E35	Transmission_Principle:T93 
+T94	Transmission_Principle 2577 2661	incorporating user pressure data to improve our weather data for you and other users
+E36	Transmission_Principle:T94 
+T95	Transmission_Principle 2665 2734	improving our reporting of current conditions for you and other users
+E37	Transmission_Principle:T95 
+T96	Transmission_Principle 2737 2769	 debugging errors in the Service
+E38	Transmission_Principle:T96 
+T97	Transmission_Principle 2777 2819	improving the functionality of the Service
+E39	Transmission_Principle:T97 
+*	F13 T96 T97 T95 T89 T93 T92 T94 T91 T90
+T98	Subject 2832 2836	your
+T99	Attribute 2849 2899;2954 3010	only as long as necessary to provide our services. only your most recent location and associated device ID 
+T100	Attribute 3047 3097	anonymous locations and weather details you submit
+T101	Attribute 3101 3150	anonymous locations and pressure sensor readings 
+T102	Attribute 3191 3225	all support related communications
+T103	Recipient 2822 2824	We
+T104	Transmission_Principle 3010 3043	if you have notifications enabled
+E40	Transmission_Principle:T104 
+T105	Transmission_Principle 3047 3056	anonymous
+E41	Transmission_Principle:T105 
+T106	Transmission_Principle 3101 3110	anonymous
+E42	Transmission_Principle:T106 
+T107	Transmission_Principle 3150 3183	if you have pressure data enabled
+E43	Transmission_Principle:T107 
+*	F14 T106 T103 T104 T101 T107 T105 T99 T98 T102 T100
+T108	Attribute 3255 3257	We
+T109	Attribute 3271 3282	information
+T110	Recipient 3671 3695	to trusted third parties
+T111	Recipient 3787 3821	to third party analytics companies
+T112	Recipient 3890 3915	to third party advertiser
+T113	Recipient 3830 3847	 Google Analytics
+T114	Transmission_Principle 3308 3326	as required by law
+E44	Transmission_Principle:T114 
+T115	Transmission_Principle 3336 3361	to comply with a subpoena
+E45	Transmission_Principle:T115 
+T116	Transmission_Principle 3374 3387	legal process
+E46	Transmission_Principle:T116 
+T117	Transmission_Principle 3391 3471	when we believe in good faith that disclosure is necessary to protect our rights
+E47	Transmission_Principle:T117 
+T118	Transmission_Principle 3473 3516	protect your safety or the safety of others
+E48	Transmission_Principle:T118 
+T119	Transmission_Principle 3517 3535	 investigate fraud
+E49	Transmission_Principle:T119 
+T120	Transmission_Principle 3540 3571	respond to a government request
+E50	Transmission_Principle:T120 
+T121	Transmission_Principle 3576 3667	if Dark Sky is involved in a merger, acquisition, or sale of all or a portion of its assets
+E51	Transmission_Principle:T121 
+T122	Transmission_Principle 3727 3783	to improve the Service as described in the section below
+E52	Transmission_Principle:T122 
+T123	Transmission_Principle 3696 3723	for use in weather research
+E53	Transmission_Principle:T123 
+*	F15 T115 T123 T110 T119 T117 T120 T122 T112 T111 T114 T118 T116 T109 T108 T113 T121
+T124	Sender 3976 3978	We
+T125	Attribute 4001 4005	data
+T126	Recipient 4009 4040	third party analytics companies
+T127	Transmission_Principle 3991 4000	anonymous
+E54	Transmission_Principle:T127 
+T128	Transmission_Principle 4040 4121	 to help us understand how the Service is being used to help us make improvements
+E55	Transmission_Principle:T128 
+*	F16 T126 T128 T127 T124 T125
+T129	Sender 4149 4151	We
+T130	Attribute 4229 4287	how you interact with advertising provided on the Websites
+T131	Recipient 4161 4173	 advertisers
+T132	Recipient 4178 4210	third party advertising networks
+T133	Transmission_Principle 4308 4347	privacy policies of these third parties
+E56	Transmission_Principle:T133 
+*	F17 T133 T132 T130 T131 T129
+T134	Attribute 4698 4761	disclosure of the work performed by these trusted third parties
+T135	Recipient 4691 4697	public
+T136	Transmission_Principle 4770 4780	anonymized
+E57	Transmission_Principle:T136 
+*	F18 T136 T134 T135

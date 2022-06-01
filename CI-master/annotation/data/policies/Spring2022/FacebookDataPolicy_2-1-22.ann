@@ -1,0 +1,1118 @@
+T1	Recipient 675 677	We
+T2	Attribute 690 747	content, communications and other information you provide
+T3	Sender 736 739	you
+T4	Condition 748 773	when you use our Products
+E1	Condition:T4 
+T5	Condition 785 881	when you sign up for an account, create or share content, and message or communicate with others
+E2	Condition:T5 
+T6	Aim 335 363	To provide the Meta Products
+E3	Aim:T6 
+T7	Recipient 365 367	we
+T8	Attribute 381 392	information
+T9	Subject 399 402	you
+T10	Modality 368 372	must
+E4	Modality:T10 
+T11	Recipient 429 431	we
+T12	Condition 440 461	depend on how you use
+E5	Condition:T12 
+T13	Subject 454 457	you
+T14	Attribute 404 428	The types of information
+T15	Recipient 527 529	we
+T16	Attribute 515 526	information
+T17	Attribute 900 963	information in or about the content you provide (like metadata)
+T18	Attribute 977 1027	location of a photo or the date a file was created
+T19	Attribute 1259 1308	content and communications you and others provide
+T20	Sender 1286 1300	you and others
+T21	Aim 1309 1346	to analyze context and what's in them
+E6	Aim:T21 
+T22	Recipient 1225 1236	Our systems
+T23	Sender 1486 1489	You
+T24	Attribute 1512 1570	information in your Facebook profile fields or Life Events
+T25	Attribute 1582 1660	religious views, political views, who you are "interested in," or your health.
+T26	Attribute 1661 1770	This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership)
+T27	Modality 1771 1776	could
+E7	Modality:T27 
+T28	Attribute 1049 1090	what you see through features we provide,
+T29	Attribute 1099 1110	our camera,
+T30	Modality 1117 1120	can
+E8	Modality:T30 
+T31	Aim 1136 1199	suggest masks and filters that you might like, or give you tips
+E9	Aim:T31 
+T32	Recipient 1879 1881	We
+T33	Attribute 1890 2021	information about the people, accounts, hashtags and Facebook groups, and Pages you are connected to and how you interact with them
+T34	Condition 2022 2041	across our Products
+E10	Condition:T34 
+T35	Attribute 2043 2113	such as people you communicate with the most or groups you are part of
+T36	Recipient 2115 2117	We
+T37	Subject 1908 1919	the people,
+T38	Subject 736 739	you
+T39	Subject 790 793	you
+T40	Sender 936 939	you
+T41	Subject 1054 1057	you
+T42	Subject 1999 2002	you
+T43	Subject 2051 2057	people
+T44	Subject 2091 2097	groups
+T45	Attribute 2131 2150	contact information
+T46	Sender 2154 2157	you
+T47	Condition 2158 2207	choose to upload, sync or import it from a device
+E11	Condition:T47 
+T48	Aim 2283 2383	things like helping you and others find people you may know and for the other purposes listed below.
+E12	Aim:T48 
+T49	Recipient 2401 2403	We
+T50	Attribute 2412 2455	information about how you use our Products,
+T51	Subject 2434 2437	you
+T52	Attribute 2464 2652	the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities.
+T53	Subject 2558 2564	people
+T54	Recipient 2666 2668	we
+T55	Attribute 2673 2789	when you're using and have last used our Products, and what posts, videos and other content you view on our Products
+T56	Recipient 2791 2793	We
+T57	Attribute 2807 2862	information about how you use features like our camera.
+T58	Subject 2829 2832	you
+T59	Condition 2921 2990	If you use our Products for purchases or other financial transactions
+E13	Condition:T59 
+T60	Condition 3000 3053	when you make a purchase in a game or make a donation
+E14	Condition:T60 
+T61	Recipient 3056 3058	we
+T62	Attribute 3067 3113	information about the purchase or transaction.
+T63	Subject 2924 2927	you
+T64	Attribute 3128 3217	payment information, such as your credit or debit card number and other card information;
+T65	Attribute 3218 3306	other account and authentication information; and billing, shipping and contact details.
+T66	Recipient 3369 3371	We
+T67	Attribute 3397 3462	content, communications and information that other people provide
+T68	Sender 3442 3447	other
+T69	Condition 3463 3490	when they use our Products.
+E15	Condition:T69 
+T70	Subject 3526 3529	you
+T71	Attribute 3508 3529	information about you
+T72	Attribute 3539 3661	when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.
+T73	Recipient 3704 3706	we
+T74	Attribute 3715 3818	information from and about the computers, phones, connected TVs and other web-connected devices you use
+T75	Condition 3819 3851	that integrate with our Products
+E16	Condition:T75 
+T76	Subject 3811 3814	you
+T77	Consequence 3857 3917	we combine this information across different devices you use
+E17	Consequence:T77 
+T78	Subject 3910 3913	you
+T79	Recipient 3932 3934	we
+T80	Attribute 3939 4005	information collected about your use of our Products on your phone
+T81	Aim 4006 4075	to better personalize the content (including ads) or features you see
+E18	Aim:T81 
+T82	Aim 4152 4263	or to measure whether you took an action in response to an ad we showed you on your phone on a different device
+E19	Aim:T82 
+T83	Recipient 4279 4281	we
+T84	Condition 4289 4307	from these devices
+E20	Condition:T84 
+T85	Attribute 4323 4529	Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
+T86	Attribute 4534 4697	Device operations: information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements
+T87	Consequence 4699 4742	which can help distinguish humans from bots
+E21	Consequence:T87 
+T88	Subject 4854 4857	you
+T89	Attribute 4749 4983	Identifiers: unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Meta Company Products associated with the same device or account).
+T90	Attribute 4988 5098	Device signals: Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+T91	Subject 5142 5145	you
+T92	Sender 5142 5145	you
+T93	Condition 5146 5154	allow us
+E22	Condition:T93 
+T94	Condition 5166 5201	through device settings you turn on
+E23	Condition:T94 
+T95	Attribute 5103 5257	Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+T96	Aim 5507 5583	so we can do things like help you stream a video from your phone to your TV.
+E24	Aim:T96 
+T97	Attribute 5262 5506	Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network,
+T98	Attribute 5588 5676	Cookie data: data from cookies stored on your device, including cookie IDs and settings.
+T99	Sender 5803 5846	Advertisers, app developers, and publishers
+T100	Modality 5847 5850	can
+E25	Modality:T100 
+T101	Recipient 5856 5858	us
+T102	Condition 5871 5907	through Meta Business Tools they use
+E26	Condition:T102 
+T103	Attribute 5909 6019	including our social plug-ins (such as the Like button), Facebook Login, our APIs and SDKs, or the Meta pixel.
+T104	Sender 6020 6034	These partners
+T105	Attribute 6043 6096	information about your activities off of our Products
+T106	Attribute 6107 6225	information about your device, websites you visit, purchases you make, the ads you see, and how you use their services
+T107	Subject 6147 6150	you
+T108	Subject 6168 6171	you
+T109	Subject 6186 6189	you
+T110	Subject 6203 6206	you
+T111	Condition 6226 6292	whether or not you have an account or are logged into our Products
+E27	Condition:T111 
+T112	Sender 6307 6323	a game developer
+T113	Modality 6324 6329	could
+E28	Modality:T113 
+T114	Recipient 6350 6352	us
+T115	Subject 6364 6367	you
+T116	Attribute 6353 6373	what games you play,
+T117	Sender 6379 6387	business
+T118	Modality 6388 6393	could
+E29	Modality:T118 
+T119	Recipient 6399 6401	us
+T120	Subject 6419 6422	you
+T121	Attribute 6402 6441	about a purchase you made in its store.
+T122	Recipient 6442 6444	We
+T123	Attribute 6458 6521	information about your online and offline actions and purchases
+T124	Sender 6527 6553	third-party data providers
+T125	Recipient 6613 6621	Partners
+T126	Attribute 6630 6639	your data
+T127	Subject 6645 6648	you
+T128	Condition 6640 6717	when you visit or use their services or through third parties they work with.
+E30	Condition:T128 
+T129	Recipient 7099 7101	We
+T130	Attribute 7106 7129	the information we have
+T131	Condition 7131 7158	subject to choices you make
+E31	Condition:T131 
+T132	Subject 7150 7153	you
+T133	Aim 7183 7293	to provide and support the Meta Products and related services described in the Meta Terms and Instagram Terms.
+E32	Aim:T133 
+T134	Recipient 7354 7356	We
+T135	Attribute 7361 7384	the information we have
+T136	Aim 7385 7408	to deliver our Products
+E33	Aim:T136 
+T137	Aim 7420 7674	to personalize features and content (including your ads, Facebook News Feed, Instagram Feed, and Instagram Stories) and make suggestions for you (such as groups or events you may be interested in or topics you may want to follow) on and off our Products.
+E34	Aim:T137 
+T138	Subject 7561 7564	you
+T139	Condition 7675 7742	To create personalized Products that are unique and relevant to you
+E35	Condition:T139 
+T140	Subject 7739 7742	you
+T141	Recipient 7744 7746	we
+T142	Attribute 7751 7806	your connections, preferences, interests and activities
+T143	Attribute 7816 7865	the data we collect and learn from you and others
+T144	Sender 7851 7854	you
+T145	Sender 7859 7865	others
+T146	Subject 7851 7854	you
+T147	Subject 7859 7865	others
+T148	Attribute 7867 7932	including any data with special protections you choose to provide
+T149	Sender 7911 7914	you
+T150	Condition 7915 7921	choose
+E36	Condition:T150 
+T151	Attribute 7935 7977	how you use and interact with our Products
+T152	Subject 7939 7942	you
+T153	Attribute 7983 8050	the people, places, or things you're connected to and interested in
+T154	Subject 7987 7993	people
+T155	Recipient 8097 8099	we
+T156	Attribute 8104 8125	information about you
+T157	Subject 8122 8125	you
+T158	Aim 8126 8179	to personalize your Facebook and Instagram experience
+E37	Aim:T158 
+T159	Recipient 8362 8364	We
+T160	Attribute 8373 8406	information about your activities
+T161	Condition 8407 8445	on different Meta Products and devices
+E38	Condition:T161 
+T162	Aim 8446 8528	to provide a more tailored and consistent experience on all Meta Products you use,
+E39	Aim:T162 
+T163	Condition 8529 8551	wherever you use them.
+E40	Condition:T163 
+T164	Subject 8520 8523	you
+T166	Modality 8568 8571	can
+E41	Modality:T166 
+T167	Subject 8585 8588	you
+T165	Consequence 8565 8613	we can suggest that you join a group on Facebook
+E42	Consequence:T165 
+T168	Condition 8614 8694	that includes people you follow on Instagram or communicate with using Messenger
+E43	Condition:T168 
+T169	Consequence 8696 8743	We can also make your experience more seamless,
+E44	Consequence:T169 
+T170	Modality 8699 8702	can
+E45	Modality:T170 
+T171	Condition 8757 8784	by automatically filling in
+E46	Condition:T171 
+T172	Attribute 8785 8842	your registration information (such as your phone number)
+T173	Condition 8865 8920	when you sign up for an account on a different Product.
+E47	Condition:T173 
+T174	Subject 8870 8873	you
+T175	Recipient 8956 8958	We
+T176	Attribute 8963 8991	location-related information
+T177	Attribute 9000 9021	your current location
+T178	Attribute 9023 9038	where you live,
+T179	Attribute 9039 9064	the places you like to go
+T180	Attribute 9074 9110	businesses and people you're near-to
+T181	Subject 9089 9095	people
+T182	Aim 9111 9172	provide, personalize and improve our Products, including ads,
+E48	Aim:T182 
+T183	Subject 9173 9192	for you and others.
+T184	Modality 9222 9225	can
+E49	Modality:T184 
+T185	Condition 9275 9309	if you've allowed us to collect it
+E50	Condition:T185 
+T186	Sender 9278 9284	you've
+T187	Attribute 9250 9273	precise device location
+T188	Attribute 9312 9426	IP addresses, and information from your and others' use of Meta Products (such as check-ins or events you attend).
+T189	Subject 9414 9417	you
+T190	Recipient 9466 9468	We
+T191	Attribute 9477 9496	information we have
+T192	Aim 9497 9644	to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
+E51	Aim:T192 
+T193	Recipient 9683 9685	We
+T194	Attribute 9694 9723	information we have about you
+T195	Attribute 9734 9766	information about your interests
+T196	Attribute 9768 9791	actions and connections
+T197	Subject 9720 9723	you
+T198	Aim 9792 9875	to select and personalize ads, offers and other sponsored content that we show you.
+E52	Aim:T198 
+T199	Recipient 10128 10130	We
+T200	Attribute 10135 10158	the information we have
+T201	Attribute 10170 10248	your activity off our Products, such as the websites you visit and ads you see
+T202	Subject 10223 10226	you
+T203	Subject 10241 10244	you
+T204	Sender 10223 10226	you
+T205	Sender 10241 10244	you
+T206	Aim 10250 10358	to help advertisers and other partners measure the effectiveness and distribution of their ads and services,
+E53	Aim:T206 
+T207	Aim 10363 10416	understand the types of people who use their services
+E54	Aim:T207 
+T208	Aim 10421 10481	how people interact with their websites, apps, and services.
+E55	Aim:T208 
+T209	Recipient 10576 10578	We
+T210	Attribute 10583 10606	the information we have
+T211	Aim 10607 10815	to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Meta Products.
+E56	Aim:T211 
+T212	Recipient 10829 10831	we
+T213	Attribute 10836 10848	data we have
+T214	Aim 10849 10961	to investigate suspicious activity or violations of our terms or policies, or to detect when someone needs help.
+E57	Aim:T214 
+T215	Recipient 11070 11072	We
+T216	Attribute 11077 11100	the information we have
+T217	Aim 11101 11138	to send you marketing communications,
+E58	Aim:T217 
+T218	Aim 11139 11179	communicate with you about our Products,
+E59	Aim:T218 
+T219	Aim 11184 11226	let you know about our policies and terms.
+E60	Aim:T219 
+T220	Subject 11109 11112	you
+T221	Subject 11156 11159	you
+T222	Subject 11188 11191	you
+T223	Recipient 11227 11229	We
+T224	Attribute 11239 11255	your information
+T225	Subject 11239 11243	your
+T226	Aim 11256 11293	to respond to you when you contact us
+E61	Aim:T226 
+T227	Recipient 11336 11338	We
+T228	Attribute 11343 11366	the information we have
+T229	Attribute 11368 11420	including from research partners we collaborate with
+T230	Aim 11422 11572	to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
+E62	Aim:T230 
+T231	Recipient 11586 11588	we
+T232	Attribute 11597 11655	information we have about migration patterns during crises
+T233	Aim 11656 11678	to aid relief efforts.
+E63	Aim:T233 
+T234	Condition 11909 11959	When you share and communicate using our Products,
+E64	Condition:T234 
+T235	Sender 11914 11917	you
+T236	Consequence 11960 12003	you choose the audience for what you share.
+E65	Consequence:T236 
+T237	Subject 11960 11963	you
+T238	Sender 12022 12025	you
+T239	Condition 12017 12043	when you post on Facebook,
+E66	Condition:T239 
+T240	Subject 12044 12047	you
+T242	Consequence 12044 12081	you select the audience for the post,
+E67	Consequence:T242 
+T243	Attribute 12072 12080	the post
+T241	Condition 12175 12210	when you use Messenger or Instagram
+E68	Condition:T241 
+T244	Sender 12180 12183	you
+T245	Subject 11914 11917	you
+T246	Subject 12022 12025	you
+T247	Subject 12180 12183	you
+T248	Aim 12211 12252	to communicate with people or businesses,
+E69	Aim:T248 
+T249	Consequence 12253 12310	those people and businesses can see the content you send.
+E70	Consequence:T249 
+T250	Attribute 12289 12309	the content you send
+T251	Recipient 12059 12067	audience
+T252	Recipient 11975 11983	audience
+T253	Recipient 12090 12162	a group, all of your friends, the public, or a customized list of people
+T254	Recipient 12253 12280	those people and businesses
+T255	Recipient 12311 12323	Your network
+T256	Attribute 12337 12376	actions you have taken on our Products,
+T257	Attribute 12387 12428	engagement with ads and sponsored content
+T258	Sender 12345 12348	you
+T259	Subject 12345 12348	you
+T260	Sender 12430 12432	We
+T261	Recipient 12442 12456	other accounts
+T262	Subject 12476 12481	their
+T263	Attribute 12476 12512	their Facebook or Instagram Stories.
+T264	Attribute 12515 12533	Public information
+T265	Recipient 12549 12555	anyone
+T266	Condition 12557 12580	on or off our Products,
+E71	Condition:T266 
+T267	Condition 12581 12621	including if they don't have an account.
+E72	Condition:T267 
+T268	Subject 12636 12640	your
+T269	Attribute 12641 12882	Instagram username; any information you share with a public audience; information in your public profile on Facebook; and content you share on a Facebook Page, public Instagram account or any other public forum, such as Facebook Marketplace.
+T270	Sender 12677 12680	you
+T271	Subject 12677 12680	you
+T272	Recipient 12694 12709	public audience
+T273	Subject 12726 12730	your
+T274	Sender 12771 12774	you
+T275	Subject 12771 12774	you
+T276	Sender 12883 12886	You
+T277	Sender 12888 12900	other people
+T278	Sender 12935 12937	we
+T279	Attribute 12950 12986	access to or send public information
+T280	Recipient 12990 12996	anyone
+T281	Condition 12997 13020	on or off our Products,
+E73	Condition:T281 
+T282	Attribute 13109 13127	Public information
+T283	Recipient 13187 13207	third-party services
+T284	Recipient 13216 13267	search engines, APIs, and offline media such as TV,
+T285	Recipient 13275 13308	apps, websites and other services
+T286	Condition 13309 13342	that integrate with our Products.
+E74	Condition:T286 
+T287	Recipient 13553 13559	people
+T288	Condition 13564 13601	can see your activity on our Products
+E75	Condition:T288 
+T289	Attribute 13577 13601	activity on our Products
+T290	Modality 13602 13605	can
+E76	Modality:T290 
+T291	Consequence 13613 13661	to share it with others on and off our Products,
+E77	Consequence:T291 
+T292	Subject 13715 13718	you
+T293	Sender 13715 13718	you
+T294	Condition 13745 13817	when you share a post or send a message to specific friends or accounts,
+E78	Condition:T294 
+T295	Sender 13750 13753	you
+T296	Subject 13750 13753	you
+T297	Attribute 13760 13784	a post or send a message
+T298	Recipient 13788 13804	specific friends
+T299	Modality 13823 13826	can
+E79	Modality:T299 
+T300	Consequence 13823 13909	can download, screenshot, or reshare that content to others across or off our Products
+E80	Consequence:T300 
+T301	Attribute 13860 13872	that content
+T302	Recipient 13876 13882	others
+T303	Condition 13911 13954	in person or in virtual reality experiences
+E81	Condition:T303 
+T304	Condition 13986 14051	when you comment on someone else's post or react to their content
+E82	Condition:T304 
+T305	Sender 13991 13994	you
+T306	Subject 13991 13994	you
+T307	Attribute 14053 14077	your comment or reaction
+T308	Consequence 14078 14088	is visible
+E83	Consequence:T308 
+T309	Recipient 14092 14098	anyone
+T310	Condition 14099 14138	who can see the other person's content,
+E84	Condition:T310 
+T311	Modality 14155 14185	can change the audience later.
+E85	Modality:T311 
+T312	Recipient 14170 14178	audience
+T313	Sender 14188 14194	People
+T314	Modality 14195 14198	can
+E86	Modality:T314 
+T315	Aim 14221 14288	to create and share content about you with the audience they choose
+E87	Aim:T315 
+T316	Attribute 14241 14258	content about you
+T317	Subject 14255 14258	you
+T318	Recipient 14264 14288	the audience they choose
+T319	Sender 14303 14309	people
+T320	Modality 14310 14319	can share
+E88	Modality:T320 
+T321	Attribute 14320 14334	a photo of you
+T322	Attribute 14347 14379	mention or tag you at a location
+T323	Attribute 14400 14421	information about you
+T324	Condition 14422 14449	in their posts or messages.
+E89	Condition:T324 
+T325	Subject 14331 14334	you
+T326	Subject 14362 14365	you
+T327	Recipient 14640 14663	People in your networks
+T328	Attribute 14672 14679	signals
+T329	Consequence 14680 14692	telling them
+E90	Consequence:T329 
+T330	Attribute 14693 14731	whether you are active on our Products
+T331	Attribute 14743 14811	whether you are currently active on Instagram, Messenger or Facebook
+T332	Attribute 14816 14847	when you last used our Products
+T333	Subject 14701 14704	you
+T334	Subject 14751 14754	you
+T335	Subject 14821 14824	you
+T336	Sender 14927 14930	you
+T337	Subject 14927 14930	you
+T338	Condition 14931 15037	choose to use third-party apps, websites, or other services that use, or are integrated with, our Products
+E91	Condition:T338 
+T339	Consequence 15039 15096	they can receive information about what you post or share
+E92	Consequence:T339 
+T340	Attribute 15056 15097	information about what you post or share.
+T341	Recipient 15039 15043	they
+T342	Subject 15079 15082	you
+T343	Subject 15116 15119	you
+T344	Sender 15116 15119	you
+T345	Condition 15111 15214	when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website,
+E93	Condition:T345 
+T346	Recipient 15215 15244	the game developer or website
+T347	Modality 15245 15256	can receive
+E94	Modality:T347 
+T348	Attribute 15257 15302	information about your activities in the game
+T349	Attribute 15314 15376	a comment or link that you share from the website on Facebook.
+T350	Subject 15337 15340	you
+T351	Sender 15337 15340	you
+T352	Condition 15383 15434	when you download or use such third-party services,
+E95	Condition:T352 
+T353	Subject 15388 15391	you
+T354	Sender 15388 15391	you
+T355	Recipient 15435 15439	they
+T356	Modality 15440 15450	can access
+E96	Modality:T356 
+T357	Attribute 15451 15528	your public profile on Facebook, and any information that you share with them
+T358	Subject 15509 15512	you
+T359	Sender 15509 15512	you
+T360	Subject 15548 15551	you
+T361	Sender 15548 15551	you
+T362	Recipient 15530 15547	Apps and websites
+T363	Modality 15556 15567	may receive
+E97	Modality:T363 
+T364	Attribute 15568 15597	your list of Facebook friends
+T365	Condition 15598 15634	if you choose to share it with them.
+E98	Condition:T365 
+T366	Subject 15601 15604	you
+T367	Sender 15601 15604	you
+T368	Recipient 15629 15633	them
+T369	Recipient 15639 15664	apps and websites you use
+T370	Subject 15657 15660	you
+T371	Sender 15657 15660	you
+T372	Modality 15665 15692	will not be able to receive
+E99	Modality:T372 
+T373	Attribute 15693 15742	any other information about your Facebook friends
+T374	Sender 15748 15751	you
+T375	Attribute 15756 15805	information about any of your Instagram followers
+T376	Attribute 15905 15916	Information
+T377	Recipient 15936 15956	third-party services
+T378	Consequence 15960 15999	subject to their own terms and policies
+E100	Consequence:T378 
+T379	Recipient 16017 16046	Devices and operating systems
+T380	Condition 16047 16098	providing native versions of Facebook and Instagram
+E101	Condition:T380 
+T381	Attribute 16183 16225	information you choose to share with them,
+T382	Attribute 16236 16276	information your friends share with you,
+T383	Aim 16277 16327	so they can provide our core functionality to you.
+E102	Aim:T383 
+T384	Sender 16195 16198	you
+T385	Subject 16195 16198	you
+T386	Recipient 16220 16224	them
+T387	Sender 16248 16260	your friends
+T388	Recipient 16272 16275	you
+T389	Subject 16323 16326	you
+T390	Condition 16830 16913	If the ownership or control of all or part of our Products or their assets changes,
+E103	Condition:T390 
+T391	Sender 16914 16916	we
+T392	Attribute 16930 16946	your information
+T393	Recipient 16950 16964	the new owner.
+T394	Sender 17503 17505	We
+T395	Attribute 17514 17548	aggregated statistics and insights
+T396	Consequence 17549 17591	that help people and businesses understand
+E104	Consequence:T396 
+T397	Attribute 17592 17714	how people are engaging with their posts, listings, Facebook Pages, videos and other content on and off the Meta Products.
+T398	Subject 17596 17602	people
+T399	Recipient 17559 17580	people and businesses
+T400	Recipient 17728 17780	Facebook Page admins and Instagram business profiles
+T401	Attribute 17789 17947	information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information
+T402	Subject 17821 17827	people
+T403	Subject 17831 17839	accounts
+T404	Condition 17840 17876	who viewed, reacted to, or commented
+E105	Condition:T404 
+T405	Consequence 17948 18023	that helps them understand interactions with their account or Facebook Page
+E106	Consequence:T405 
+T406	Sender 18040 18042	We
+T407	Recipient 18051 18062	advertisers
+T408	Attribute 18068 18151	reports about the kinds of people seeing their ads and how their ads are performing
+T409	Subject 18095 18101	people
+T410	Attribute 18172 18214	information that personally identifies you
+T411	Modality 18160 18171	don't share
+E107	Modality:T411 
+T412	Attribute 18216 18262	information such as your name or email address
+T413	Subject 18211 18214	you
+T414	Modality 18278 18281	can
+E108	Modality:T414 
+T415	Consequence 18293 18330	contact you or identifies who you are
+E109	Consequence:T415 
+T416	Condition 18332 18361	unless you give us permission
+E110	Condition:T416 
+T417	Subject 18339 18342	you
+T418	Sender 18376 18378	we
+T419	Attribute 18387 18431	general demographic and interest information
+T420	Recipient 18435 18446	advertisers
+T421	Attribute 18461 18572	that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering
+T422	Subject 18486 18491	woman
+T423	Aim 18574 18619	to help them better understand their audience
+E111	Aim:T423 
+T424	Subject 18605 18620	their audience.
+T425	Sender 18736 18738	We
+T426	Attribute 18745 18766	information about you
+T427	Subject 18763 18766	you
+T428	Recipient 18772 18781	companies
+T429	Condition 18782 18860	that aggregate it to provide analytics and measurement reports to our partners
+E112	Condition:T429 
+T430	Aim 18800 18844	to provide analytics and measurement reports
+E113	Aim:T430 
+T431	Condition 18918 19012	When you subscribe to receive premium content, or buy something from a seller in our Products,
+E114	Condition:T431 
+T432	Subject 18923 18926	you
+T433	Recipient 19013 19042	the content creator or seller
+T434	Sender 18923 18926	you
+T435	Modality 19043 19054	can receive
+E115	Modality:T435 
+T436	Attribute 19055 19121	your public information and other information you share with them,
+T437	Attribute 19133 19183	the information needed to complete the transaction
+T438	Attribute 19195 19223	shipping and contact details
+T439	Subject 19101 19104	you
+T440	Sender 19101 19104	you
+T441	Recipient 19116 19120	them
+T442	Sender 19258 19260	We
+T443	Attribute 19269 19292	information and content
+T444	Recipient 19296 19351	vendors and service providers who support our business,
+T445	Condition 19363 19516	providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys
+E116	Condition:T445 
+T446	Sender 19547 19549	We
+T447	Attribute 19563 19586	information and content
+T448	Recipient 19590 19621	research partners and academics
+T449	Aim 19622 19641	to conduct research
+E117	Aim:T449 
+T450	Consequence 19642 19862	that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
+E118	Consequence:T450 
+T451	Sender 19900 19902	We
+T452	Attribute 19909 19920	information
+T453	Recipient 19926 19941	law enforcement
+T454	Condition 19945 19974	in response to legal requests
+E119	Condition:T454 
+T455	Recipient 20473 20475	We
+T456	Attribute 20489 20510	information about you
+T457	Subject 20507 20510	you
+T458	Condition 20511 20536	across the Meta Companies
+E120	Condition:T458 
+T459	Aim 20537 20555	for these purposes
+E121	Aim:T459 
+T460	Condition 20557 20635	as permitted by applicable law and in accordance with their terms and policies
+E122	Condition:T460 
+T461	Recipient 20650 20652	we
+T462	Attribute 20661 20729	information from WhatsApp about accounts sending spam on its service
+T463	Aim 20730 20822	so we can take appropriate action against those accounts on Facebook, Instagram or Messenger
+E123	Aim:T463 
+T464	Recipient 20824 20826	We
+T465	Aim 20837 20905	to understand how people use and interact with Meta Company Products
+E124	Aim:T465 
+T466	Subject 20855 20861	people
+T467	Attribute 20929 20990	the number of unique users on different Meta Company Products
+T468	Recipient 21199 21201	We
+T469	Attribute 21208 21212	data
+T470	Condition 21213 21287	until it is no longer necessary to provide our services and Meta Products,
+E125	Condition:T470 
+T471	Condition 21291 21320	until your account is deleted
+E126	Condition:T471 
+T472	Sender 21716 21719	you
+T473	Subject 21716 21719	you
+T474	Attribute 21727 21762	a copy of your government-issued ID
+T475	Recipient 21798 21800	we
+T476	Subject 22016 22019	you
+T477	Attribute 22009 22031	things you have posted
+T478	Attribute 22041 22071	your photos and status updates
+T479	Consequence 22077 22128	you won't be able to recover that information later
+E127	Consequence:T479 
+T480	Attribute 22130 22141	Information
+T481	Sender 22147 22153	others
+T482	Subject 22172 22175	you
+T483	Sender 22521 22523	We
+T484	Attribute 22551 22567	your information
+T485	Recipient 22573 22610	regulators, law enforcement or others
+T486	Condition 22615 22645	In response to a legal request
+E128	Condition:T486 
+T487	Condition 23048 23265	When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves
+E129	Condition:T487 
+T488	Condition 22761 22854	This may include responding to legal requests from jurisdictions outside of the United States
+E130	Condition:T488 
+T489	Recipient 23459 23461	we
+T490	Attribute 23470 23481	information
+T491	Sender 23459 23461	we
+T492	Attribute 23497 23508	information
+T493	Recipient 23514 23534	third-party partners
+T494	Sender 23526 23534	partners
+T495	Attribute 23545 23572	reliability of your account
+T496	Aim 23573 23648	to prevent fraud, abuse and other harmful activity on and off our Products.
+E131	Aim:T496 
+T497	Attribute 23651 23683	Information we receive about you
+T498	Recipient 23663 23665	we
+T499	Subject 23680 23683	you
+T500	Attribute 23695 23763	financial transaction data related to purchases made on our Products
+T501	Modality 23765 23768	can
+E132	Modality:T501 
+T502	Recipient 24000 24002	We
+T503	Attribute 24015 24049	information from accounts disabled
+T504	Condition 24071 24090	for at least a year
+E133	Condition:T504 
+T505	Aim 24091 24139	to prevent repeat abuse or other term violations
+E134	Aim:T505 
+T506	Sender 24226 24228	We
+T507	Attribute 24235 24246	information
+T508	Condition 24247 24314	globally, both internally within the Meta Companies, and externally
+E135	Condition:T508 
+T509	Recipient 24320 24332	our partners
+T510	Recipient 24342 24374	those you connect and share with
+T511	Attribute 24424 24440	Your information
+T512	Modality 24441 24444	may
+E136	Modality:T512 
+T513	Subject 24574 24577	you
+T514	Aim 24583 24628	for the purposes as described in this policy.
+E137	Aim:T514 
+R1	Flow Arg1:E3 Arg2:T7	
+R2	Flow Arg1:T7 Arg2:E4	
+R3	Flow Arg1:E4 Arg2:T8	
+R4	Flow Arg1:T8 Arg2:T9	
+R5	Flow Arg1:T14 Arg2:T11	
+R6	Flow Arg1:T11 Arg2:E5	
+R7	Flow Arg1:E5 Arg2:T13	
+R8	Flow Arg1:T16 Arg2:T15	
+R9	Flow Arg1:T1 Arg2:T2	
+R10	Flow Arg1:T2 Arg2:T38	
+R11	Flow Arg1:T38 Arg2:T3	
+R12	Flow Arg1:T3 Arg2:E1	
+R13	Flow Arg1:E1 Arg2:T39	
+R14	Flow Arg1:T39 Arg2:E2	
+R15	Flow Arg1:E2 Arg2:T17	
+R16	Flow Arg1:T17 Arg2:T40	
+R17	Flow Arg1:T40 Arg2:T18	
+R18	Flow Arg1:T18 Arg2:T41	
+R19	Flow Arg1:T41 Arg2:T28	
+R20	Flow Arg1:T28 Arg2:T29	
+R21	Flow Arg1:T29 Arg2:E8	
+R22	Flow Arg1:E8 Arg2:E9	
+R23	Flow Arg1:T22 Arg2:T19	
+R24	Flow Arg1:T19 Arg2:T20	
+R25	Flow Arg1:T20 Arg2:E6	
+R26	Flow Arg1:T23 Arg2:T24	
+R27	Flow Arg1:T24 Arg2:T25	
+R28	Flow Arg1:T25 Arg2:T26	
+R29	Flow Arg1:T26 Arg2:E7	
+R30	Flow Arg1:T32 Arg2:T37	
+R31	Flow Arg1:T37 Arg2:T33	
+R32	Flow Arg1:T33 Arg2:T42	
+R33	Flow Arg1:T42 Arg2:E10	
+R34	Flow Arg1:E10 Arg2:T43	
+R35	Flow Arg1:T43 Arg2:T35	
+R36	Flow Arg1:T35 Arg2:T44	
+R37	Flow Arg1:T44 Arg2:T36	
+R38	Flow Arg1:T36 Arg2:T45	
+R39	Flow Arg1:T45 Arg2:T46	
+R40	Flow Arg1:T46 Arg2:E11	
+R41	Flow Arg1:E11 Arg2:E12	
+R42	Flow Arg1:T49 Arg2:T50	
+R43	Flow Arg1:T50 Arg2:T51	
+R44	Flow Arg1:T51 Arg2:T52	
+R45	Flow Arg1:T52 Arg2:T53	
+R46	Flow Arg1:T53 Arg2:T54	
+R47	Flow Arg1:T54 Arg2:T55	
+R48	Flow Arg1:T55 Arg2:T56	
+R49	Flow Arg1:T56 Arg2:T57	
+R50	Flow Arg1:T57 Arg2:T58	
+R51	Flow Arg1:T63 Arg2:E13	
+R52	Flow Arg1:E13 Arg2:E14	
+R53	Flow Arg1:E14 Arg2:T61	
+R54	Flow Arg1:T61 Arg2:T62	
+R55	Flow Arg1:T62 Arg2:T64	
+R56	Flow Arg1:T64 Arg2:T65	
+R57	Flow Arg1:T66 Arg2:T67	
+R58	Flow Arg1:T67 Arg2:T68	
+R59	Flow Arg1:T68 Arg2:E15	
+R60	Flow Arg1:E15 Arg2:T71	
+R61	Flow Arg1:T71 Arg2:T70	
+R62	Flow Arg1:T70 Arg2:T72	
+R63	Flow Arg1:T73 Arg2:T74	
+R64	Flow Arg1:T74 Arg2:T76	
+R65	Flow Arg1:T76 Arg2:E16	
+R66	Flow Arg1:E16 Arg2:E17	
+R67	Flow Arg1:E17 Arg2:T78	
+R68	Flow Arg1:T78 Arg2:T79	
+R69	Flow Arg1:T79 Arg2:T80	
+R70	Flow Arg1:T80 Arg2:E18	
+R71	Flow Arg1:E18 Arg2:E19	
+R72	Flow Arg1:T83 Arg2:E20	
+R73	Flow Arg1:E20 Arg2:T85	
+R74	Flow Arg1:T85 Arg2:T86	
+R75	Flow Arg1:T86 Arg2:E21	
+R76	Flow Arg1:E21 Arg2:T88	
+R77	Flow Arg1:T88 Arg2:T89	
+R78	Flow Arg1:T89 Arg2:T90	
+R79	Flow Arg1:T90 Arg2:T92	
+R80	Flow Arg1:T92 Arg2:T91	
+R81	Flow Arg1:T91 Arg2:E22	
+R82	Flow Arg1:E22 Arg2:E23	
+R83	Flow Arg1:E23 Arg2:T95	
+R84	Flow Arg1:T95 Arg2:T97	
+R85	Flow Arg1:T97 Arg2:E24	
+R86	Flow Arg1:E24 Arg2:T98	
+R87	Flow Arg1:T99 Arg2:E25	
+R88	Flow Arg1:E25 Arg2:T101	
+R89	Flow Arg1:T101 Arg2:E26	
+R90	Flow Arg1:E26 Arg2:T103	
+R91	Flow Arg1:T103 Arg2:T104	
+R92	Flow Arg1:T104 Arg2:T105	
+R93	Flow Arg1:T105 Arg2:T107	
+R94	Flow Arg1:T107 Arg2:T106	
+R95	Flow Arg1:T106 Arg2:T108	
+R96	Flow Arg1:T108 Arg2:T109	
+R97	Flow Arg1:T109 Arg2:T110	
+R98	Flow Arg1:T110 Arg2:E27	
+R99	Flow Arg1:E27 Arg2:T112	
+R100	Flow Arg1:T112 Arg2:E28	
+R101	Flow Arg1:E28 Arg2:T114	
+R102	Flow Arg1:T114 Arg2:T116	
+R103	Flow Arg1:T116 Arg2:T115	
+R104	Flow Arg1:T115 Arg2:T117	
+R105	Flow Arg1:T117 Arg2:E29	
+R106	Flow Arg1:E29 Arg2:T119	
+R107	Flow Arg1:T119 Arg2:T121	
+R108	Flow Arg1:T121 Arg2:T120	
+R109	Flow Arg1:T120 Arg2:T122	
+R110	Flow Arg1:T122 Arg2:T123	
+R111	Flow Arg1:T123 Arg2:T124	
+R112	Flow Arg1:T125 Arg2:T126	
+R113	Flow Arg1:T126 Arg2:T127	
+R114	Flow Arg1:T127 Arg2:E30	
+R115	Flow Arg1:T134 Arg2:T135	
+R116	Flow Arg1:T135 Arg2:E33	
+R117	Flow Arg1:E33 Arg2:E34	
+R118	Flow Arg1:E34 Arg2:T138	
+R119	Flow Arg1:T138 Arg2:E35	
+R120	Flow Arg1:E35 Arg2:T140	
+R121	Flow Arg1:T140 Arg2:T141	
+R122	Flow Arg1:T141 Arg2:T142	
+R123	Flow Arg1:T142 Arg2:T143	
+R124	Flow Arg1:T143 Arg2:T144	
+R125	Flow Arg1:T144 Arg2:T146	
+R126	Flow Arg1:T146 Arg2:T147	
+R127	Flow Arg1:T147 Arg2:T145	
+R128	Flow Arg1:T145 Arg2:T148	
+R129	Flow Arg1:T148 Arg2:T149	
+R130	Flow Arg1:T149 Arg2:E36	
+R131	Flow Arg1:E36 Arg2:T152	
+R132	Flow Arg1:T152 Arg2:T151	
+R133	Flow Arg1:T151 Arg2:T154	
+R134	Flow Arg1:T154 Arg2:T153	
+R135	Flow Arg1:T153 Arg2:T155	
+R136	Flow Arg1:T155 Arg2:T156	
+R137	Flow Arg1:T156 Arg2:T157	
+R138	Flow Arg1:T157 Arg2:E37	
+R139	Flow Arg1:T159 Arg2:T160	
+R140	Flow Arg1:T160 Arg2:E38	
+R141	Flow Arg1:E38 Arg2:E39	
+R142	Flow Arg1:E39 Arg2:T164	
+R143	Flow Arg1:T164 Arg2:E40	
+R144	Flow Arg1:E40 Arg2:E41	
+R145	Flow Arg1:E41 Arg2:T167	
+R146	Flow Arg1:T167 Arg2:E42	
+R147	Flow Arg1:E42 Arg2:E43	
+R148	Flow Arg1:E43 Arg2:E45	
+R149	Flow Arg1:E45 Arg2:E44	
+R150	Flow Arg1:E44 Arg2:E46	
+R151	Flow Arg1:E46 Arg2:T172	
+R152	Flow Arg1:T172 Arg2:T174	
+R153	Flow Arg1:T174 Arg2:E47	
+R154	Flow Arg1:T175 Arg2:T176	
+R155	Flow Arg1:T176 Arg2:T177	
+R156	Flow Arg1:T177 Arg2:T178	
+R157	Flow Arg1:T178 Arg2:T179	
+R158	Flow Arg1:T179 Arg2:T180	
+R159	Flow Arg1:T180 Arg2:T181	
+R160	Flow Arg1:T181 Arg2:E48	
+R161	Flow Arg1:E48 Arg2:T183	
+R162	Flow Arg1:T183 Arg2:E49	
+R163	Flow Arg1:E49 Arg2:T187	
+R164	Flow Arg1:T187 Arg2:T186	
+R165	Flow Arg1:T186 Arg2:E50	
+R166	Flow Arg1:E50 Arg2:T188	
+R167	Flow Arg1:T188 Arg2:T189	
+R168	Flow Arg1:T189 Arg2:T190	
+R169	Flow Arg1:T190 Arg2:T191	
+R170	Flow Arg1:T191 Arg2:E51	
+R171	Flow Arg1:T193 Arg2:T194	
+R172	Flow Arg1:T194 Arg2:T197	
+R173	Flow Arg1:T197 Arg2:T195	
+R174	Flow Arg1:T195 Arg2:T196	
+R175	Flow Arg1:T196 Arg2:E52	
+R176	Flow Arg1:T199 Arg2:T200	
+R177	Flow Arg1:T200 Arg2:T201	
+R178	Flow Arg1:T201 Arg2:T204	
+R179	Flow Arg1:T204 Arg2:T202	
+R180	Flow Arg1:T202 Arg2:T203	
+R181	Flow Arg1:T203 Arg2:T205	
+R182	Flow Arg1:T205 Arg2:E53	
+R183	Flow Arg1:E53 Arg2:E54	
+R184	Flow Arg1:E54 Arg2:E55	
+R185	Flow Arg1:T209 Arg2:T210	
+R186	Flow Arg1:T210 Arg2:E56	
+R187	Flow Arg1:E56 Arg2:T212	
+R188	Flow Arg1:T212 Arg2:T213	
+R189	Flow Arg1:T213 Arg2:E57	
+R190	Flow Arg1:T215 Arg2:T216	
+R191	Flow Arg1:T216 Arg2:T220	
+R192	Flow Arg1:T220 Arg2:E58	
+R193	Flow Arg1:E58 Arg2:E59	
+R194	Flow Arg1:E59 Arg2:T221	
+R195	Flow Arg1:T221 Arg2:T222	
+R196	Flow Arg1:T222 Arg2:E60	
+R197	Flow Arg1:E60 Arg2:T223	
+R198	Flow Arg1:T223 Arg2:T225	
+R199	Flow Arg1:T225 Arg2:T224	
+R200	Flow Arg1:T224 Arg2:E61	
+R201	Flow Arg1:T227 Arg2:T228	
+R202	Flow Arg1:T228 Arg2:T229	
+R203	Flow Arg1:T229 Arg2:E62	
+R204	Flow Arg1:E62 Arg2:T231	
+R205	Flow Arg1:T231 Arg2:T232	
+R206	Flow Arg1:T232 Arg2:E63	
+R207	Flow Arg1:T245 Arg2:T235	
+R208	Flow Arg1:T235 Arg2:E64	
+R209	Flow Arg1:E64 Arg2:T237	
+R210	Flow Arg1:T237 Arg2:E65	
+R211	Flow Arg1:E65 Arg2:T252	
+R212	Flow Arg1:T252 Arg2:E66	
+R213	Flow Arg1:E66 Arg2:T246	
+R214	Flow Arg1:T246 Arg2:T238	
+R215	Flow Arg1:T238 Arg2:T240	
+R216	Flow Arg1:T240 Arg2:E67	
+R217	Flow Arg1:E67 Arg2:T251	
+R218	Flow Arg1:T251 Arg2:T243	
+R219	Flow Arg1:T243 Arg2:T253	
+R220	Flow Arg1:T253 Arg2:T247	
+R221	Flow Arg1:T247 Arg2:T244	
+R222	Flow Arg1:T244 Arg2:E68	
+R223	Flow Arg1:E68 Arg2:E69	
+R224	Flow Arg1:E69 Arg2:T254	
+R225	Flow Arg1:T254 Arg2:E70	
+R226	Flow Arg1:E70 Arg2:T250	
+R227	Flow Arg1:T250 Arg2:T255	
+R228	Flow Arg1:T255 Arg2:T259	
+R229	Flow Arg1:T259 Arg2:T258	
+R230	Flow Arg1:T258 Arg2:T256	
+R231	Flow Arg1:T256 Arg2:T257	
+R232	Flow Arg1:T257 Arg2:T260	
+R233	Flow Arg1:T260 Arg2:T261	
+R234	Flow Arg1:T261 Arg2:T262	
+R235	Flow Arg1:T262 Arg2:T263	
+R236	Flow Arg1:T264 Arg2:T265	
+R237	Flow Arg1:T265 Arg2:E71	
+R238	Flow Arg1:E71 Arg2:E72	
+R239	Flow Arg1:E72 Arg2:T268	
+R240	Flow Arg1:T268 Arg2:T271	
+R241	Flow Arg1:T271 Arg2:T270	
+R242	Flow Arg1:T270 Arg2:T272	
+R243	Flow Arg1:T272 Arg2:T273	
+R244	Flow Arg1:T273 Arg2:T269	
+R245	Flow Arg1:T269 Arg2:T275	
+R246	Flow Arg1:T275 Arg2:T274	
+R247	Flow Arg1:T274 Arg2:T276	
+R248	Flow Arg1:T276 Arg2:T277	
+R249	Flow Arg1:T277 Arg2:T278	
+R250	Flow Arg1:T278 Arg2:T279	
+R251	Flow Arg1:T279 Arg2:T280	
+R252	Flow Arg1:T280 Arg2:E73	
+R253	Flow Arg1:E73 Arg2:T282	
+R254	Flow Arg1:T282 Arg2:T283	
+R255	Flow Arg1:T283 Arg2:T284	
+R256	Flow Arg1:T284 Arg2:T285	
+R257	Flow Arg1:T285 Arg2:E74	
+R258	Flow Arg1:T287 Arg2:E75	
+R259	Flow Arg1:E75 Arg2:T289	
+R260	Flow Arg1:T289 Arg2:E76	
+R261	Flow Arg1:E76 Arg2:E77	
+R262	Flow Arg1:E77 Arg2:T292	
+R263	Flow Arg1:T292 Arg2:T293	
+R264	Flow Arg1:T293 Arg2:T296	
+R265	Flow Arg1:T296 Arg2:T295	
+R266	Flow Arg1:T295 Arg2:T297	
+R267	Flow Arg1:T297 Arg2:E78	
+R268	Flow Arg1:E78 Arg2:T298	
+R269	Flow Arg1:T298 Arg2:E79	
+R270	Flow Arg1:E79 Arg2:E80	
+R271	Flow Arg1:E80 Arg2:T301	
+R272	Flow Arg1:T301 Arg2:T302	
+R273	Flow Arg1:T302 Arg2:E81	
+R274	Flow Arg1:E81 Arg2:T306	
+R275	Flow Arg1:T306 Arg2:T305	
+R276	Flow Arg1:T305 Arg2:E82	
+R277	Flow Arg1:E82 Arg2:T307	
+R278	Flow Arg1:T307 Arg2:E83	
+R279	Flow Arg1:E83 Arg2:T309	
+R280	Flow Arg1:T309 Arg2:E84	
+R281	Flow Arg1:E84 Arg2:E85	
+R282	Flow Arg1:E85 Arg2:T312	
+R283	Flow Arg1:T313 Arg2:E86	
+R284	Flow Arg1:E86 Arg2:T316	
+R285	Flow Arg1:T316 Arg2:E87	
+R286	Flow Arg1:E87 Arg2:T317	
+R287	Flow Arg1:T317 Arg2:T318	
+R288	Flow Arg1:T318 Arg2:T319	
+R289	Flow Arg1:T319 Arg2:E88	
+R290	Flow Arg1:E88 Arg2:T321	
+R291	Flow Arg1:T321 Arg2:T325	
+R292	Flow Arg1:T325 Arg2:T322	
+R293	Flow Arg1:T322 Arg2:T326	
+R294	Flow Arg1:T326 Arg2:T323	
+R295	Flow Arg1:T323 Arg2:E89	
+R296	Flow Arg1:T327 Arg2:T328	
+R297	Flow Arg1:T328 Arg2:E90	
+R298	Flow Arg1:E90 Arg2:T333	
+R299	Flow Arg1:T333 Arg2:T330	
+R300	Flow Arg1:T330 Arg2:T334	
+R301	Flow Arg1:T334 Arg2:T331	
+R302	Flow Arg1:T331 Arg2:T335	
+R303	Flow Arg1:T335 Arg2:T332	
+R304	Flow Arg1:T337 Arg2:T336	
+R305	Flow Arg1:T336 Arg2:E91	
+R306	Flow Arg1:E91 Arg2:T341	
+R307	Flow Arg1:T341 Arg2:E92	
+R308	Flow Arg1:E92 Arg2:T340	
+R309	Flow Arg1:T340 Arg2:T342	
+R310	Flow Arg1:T342 Arg2:T343	
+R311	Flow Arg1:T343 Arg2:T344	
+R312	Flow Arg1:T344 Arg2:E93	
+R313	Flow Arg1:E93 Arg2:T346	
+R314	Flow Arg1:T346 Arg2:E94	
+R315	Flow Arg1:E94 Arg2:T348	
+R316	Flow Arg1:T348 Arg2:T350	
+R317	Flow Arg1:T350 Arg2:T351	
+R318	Flow Arg1:T351 Arg2:T349	
+R319	Flow Arg1:T349 Arg2:T353	
+R320	Flow Arg1:T353 Arg2:T354	
+R321	Flow Arg1:T354 Arg2:E95	
+R322	Flow Arg1:E95 Arg2:T355	
+R323	Flow Arg1:T355 Arg2:E96	
+R324	Flow Arg1:E96 Arg2:T357	
+R325	Flow Arg1:T357 Arg2:T358	
+R326	Flow Arg1:T358 Arg2:T359	
+R327	Flow Arg1:T359 Arg2:T362	
+R328	Flow Arg1:T362 Arg2:T360	
+R329	Flow Arg1:T360 Arg2:T361	
+R330	Flow Arg1:T361 Arg2:E97	
+R331	Flow Arg1:E97 Arg2:T364	
+R332	Flow Arg1:T364 Arg2:T366	
+R333	Flow Arg1:T366 Arg2:T367	
+R334	Flow Arg1:T367 Arg2:E98	
+R335	Flow Arg1:E98 Arg2:T368	
+R336	Flow Arg1:T368 Arg2:T369	
+R337	Flow Arg1:T369 Arg2:T370	
+R338	Flow Arg1:T370 Arg2:T371	
+R339	Flow Arg1:T371 Arg2:E99	
+R340	Flow Arg1:E99 Arg2:T373	
+R341	Flow Arg1:T373 Arg2:T374	
+R342	Flow Arg1:T374 Arg2:T375	
+R343	Flow Arg1:T375 Arg2:T376	
+R344	Flow Arg1:T376 Arg2:T377	
+R345	Flow Arg1:T377 Arg2:E100	
+R346	Flow Arg1:T379 Arg2:E101	
+R347	Flow Arg1:E101 Arg2:T385	
+R348	Flow Arg1:T385 Arg2:T384	
+R349	Flow Arg1:T384 Arg2:T381	
+R350	Flow Arg1:T381 Arg2:T386	
+R351	Flow Arg1:T386 Arg2:T382	
+R352	Flow Arg1:T382 Arg2:T387	
+R353	Flow Arg1:T387 Arg2:T388	
+R354	Flow Arg1:T388 Arg2:E102	
+R355	Flow Arg1:E102 Arg2:T389	
+R356	Flow Arg1:E103 Arg2:T391	
+R357	Flow Arg1:T391 Arg2:T392	
+R358	Flow Arg1:T392 Arg2:T393	
+R359	Flow Arg1:T394 Arg2:T395	
+R360	Flow Arg1:T395 Arg2:E104	
+R361	Flow Arg1:E104 Arg2:T399	
+R362	Flow Arg1:T399 Arg2:T398	
+R363	Flow Arg1:T398 Arg2:T397	
+R364	Flow Arg1:T397 Arg2:T400	
+R365	Flow Arg1:T400 Arg2:T402	
+R366	Flow Arg1:T402 Arg2:T403	
+R367	Flow Arg1:T403 Arg2:E105	
+R368	Flow Arg1:E105 Arg2:T401	
+R369	Flow Arg1:T401 Arg2:E106	
+R370	Flow Arg1:T406 Arg2:T407	
+R371	Flow Arg1:T407 Arg2:T409	
+R372	Flow Arg1:T409 Arg2:T408	
+R373	Flow Arg1:T408 Arg2:E107	
+R374	Flow Arg1:E107 Arg2:T410	
+R375	Flow Arg1:T410 Arg2:T413	
+R376	Flow Arg1:T413 Arg2:T412	
+R377	Flow Arg1:T412 Arg2:E108	
+R378	Flow Arg1:E108 Arg2:E109	
+R379	Flow Arg1:E109 Arg2:T417	
+R380	Flow Arg1:T417 Arg2:E110	
+R381	Flow Arg1:E110 Arg2:T418	
+R382	Flow Arg1:T418 Arg2:T419	
+R383	Flow Arg1:T419 Arg2:T420	
+R384	Flow Arg1:T420 Arg2:T422	
+R385	Flow Arg1:T422 Arg2:T421	
+R386	Flow Arg1:T421 Arg2:E111	
+R387	Flow Arg1:E111 Arg2:T424	
+R388	Flow Arg1:T425 Arg2:T426	
+R389	Flow Arg1:T426 Arg2:T427	
+R390	Flow Arg1:T427 Arg2:T428	
+R391	Flow Arg1:T428 Arg2:E112	
+R392	Flow Arg1:E112 Arg2:E113	
+R393	Flow Arg1:T432 Arg2:T434	
+R394	Flow Arg1:T434 Arg2:E114	
+R395	Flow Arg1:E114 Arg2:T433	
+R396	Flow Arg1:T433 Arg2:E115	
+R397	Flow Arg1:E115 Arg2:T436	
+R398	Flow Arg1:T436 Arg2:T440	
+R399	Flow Arg1:T440 Arg2:T439	
+R400	Flow Arg1:T439 Arg2:T441	
+R401	Flow Arg1:T441 Arg2:T437	
+R402	Flow Arg1:T437 Arg2:T438	
+R403	Flow Arg1:T442 Arg2:T443	
+R404	Flow Arg1:T443 Arg2:T444	
+R405	Flow Arg1:T444 Arg2:E116	
+R406	Flow Arg1:T446 Arg2:T447	
+R407	Flow Arg1:T447 Arg2:T448	
+R408	Flow Arg1:T448 Arg2:E117	
+R409	Flow Arg1:E117 Arg2:E118	
+R410	Flow Arg1:T451 Arg2:T452	
+R411	Flow Arg1:T452 Arg2:T453	
+R412	Flow Arg1:T453 Arg2:E119	
+R413	Flow Arg1:T455 Arg2:T456	
+R414	Flow Arg1:T456 Arg2:T457	
+R415	Flow Arg1:T457 Arg2:E120	
+R416	Flow Arg1:E120 Arg2:E121	
+R417	Flow Arg1:E121 Arg2:E122	
+R418	Flow Arg1:E122 Arg2:T461	
+R419	Flow Arg1:T461 Arg2:T462	
+R420	Flow Arg1:T462 Arg2:E123	
+R421	Flow Arg1:E123 Arg2:T464	
+R422	Flow Arg1:T464 Arg2:T466	
+R423	Flow Arg1:T466 Arg2:E124	
+R424	Flow Arg1:E124 Arg2:T467	
+R425	Flow Arg1:T468 Arg2:T469	
+R426	Flow Arg1:T469 Arg2:E125	
+R427	Flow Arg1:E125 Arg2:E126	
+R428	Flow Arg1:E126 Arg2:T473	
+R429	Flow Arg1:T473 Arg2:T472	
+R430	Flow Arg1:T472 Arg2:T474	
+R431	Flow Arg1:T474 Arg2:T475	
+R432	Flow Arg1:T476 Arg2:T477	
+R433	Flow Arg1:T477 Arg2:T478	
+R434	Flow Arg1:T478 Arg2:E127	
+R435	Flow Arg1:E127 Arg2:T480	
+R436	Flow Arg1:T480 Arg2:T481	
+R437	Flow Arg1:T481 Arg2:T482	
+R438	Flow Arg1:T483 Arg2:T484	
+R439	Flow Arg1:T484 Arg2:T485	
+R440	Flow Arg1:T485 Arg2:E128	
+R441	Flow Arg1:E128 Arg2:E130	
+R442	Flow Arg1:E130 Arg2:E129	
+R443	Flow Arg1:E129 Arg2:T491	
+R444	Flow Arg1:T491 Arg2:T489	
+R445	Flow Arg1:T489 Arg2:T490	
+R446	Flow Arg1:T490 Arg2:T492	
+R447	Flow Arg1:T492 Arg2:T493	
+R448	Flow Arg1:T493 Arg2:T494	
+R449	Flow Arg1:T494 Arg2:T495	
+R450	Flow Arg1:T495 Arg2:E131	
+R451	Flow Arg1:E131 Arg2:T497	
+R452	Flow Arg1:T497 Arg2:T498	
+R453	Flow Arg1:T498 Arg2:T499	
+R454	Flow Arg1:T499 Arg2:T500	
+R455	Flow Arg1:T500 Arg2:E132	
+R456	Flow Arg1:E132 Arg2:T502	
+R457	Flow Arg1:T502 Arg2:T503	
+R458	Flow Arg1:T503 Arg2:E133	
+R459	Flow Arg1:E133 Arg2:E134	
+R460	Flow Arg1:T506 Arg2:T507	
+R461	Flow Arg1:T507 Arg2:E135	
+R462	Flow Arg1:E135 Arg2:T509	
+R463	Flow Arg1:T509 Arg2:T510	
+R464	Flow Arg1:T510 Arg2:T511	
+R465	Flow Arg1:T511 Arg2:E136	
+R466	Flow Arg1:E136 Arg2:T513	
+R467	Flow Arg1:T513 Arg2:E137	

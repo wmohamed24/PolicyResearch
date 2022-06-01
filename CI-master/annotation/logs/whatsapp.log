@@ -1,0 +1,6 @@
+2018-09-25 13:56:38,539	crunchy	/policies/whatsapp/	whatsapp_current	START	getDocument	
+2018-09-25 13:56:38,597	crunchy	/policies/whatsapp/	whatsapp_current	FINISH	getDocument	
+2018-09-25 13:56:45,620	crunchy	/policies/whatsapp/	whatsapp_current	START	spanSelected	
+2018-09-25 13:56:45,620	crunchy	/policies/whatsapp/	whatsapp_current	FINISH	spanSelected	
+2018-09-25 14:25:23,592	anonymous	/policies/whatsapp/	whatsapp_current	START	getDocument	
+2018-09-25 14:25:23,644	anonymous	/policies/whatsapp/	whatsapp_current	FINISH	getDocument	

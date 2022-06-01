@@ -1,0 +1,23 @@
+T1	Recipient 0 2	We
+T2	Attribute 11 22	information
+T3	Transmission-Principle 23 69	to provide better services to all of our users
+T4	Recipient 278 280	We
+T5	Attribute 289 300	information
+T6	Transmission-Principle 302 347	o provide better services to all of our users
+*	Flow T1 T2 T3
+*	Flow T4 T5 T6
+T7	Aim 391 399	language
+T8	Transmission-Principle 391 409	language you speak
+A1	Aim T8
+T9	Attribute 419 444	complex things like which
+A2	Consequence T9
+T10	Transmission-Principle 449 472	you'll find most useful
+A3	TP T10 Aim
+T11	Transmission-Principle_ 102 121	like which language
+E1	Transmission-Principle_:T11 
+A4	TP E1 Aim
+T12	Transmission_Principle 132 140	 to more
+E2	Transmission_Principle:T12 
+T13	Transmission_Principle 141 160	complex things like
+E3	Transmission_Principle:T13 
+A5	TP E3 Modality

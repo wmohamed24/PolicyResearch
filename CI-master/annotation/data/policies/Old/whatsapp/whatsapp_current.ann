@@ -1,0 +1,9 @@
+T1	Recipient 1051 1059	WhatsApp
+T2	Aim 1101 1186	to operate, provide, improve, understand, customize, support, and market our Services
+E1	Aim:T2 
+T3	Condition 1198 1243	when you install, access, or use our Services
+E2	Condition:T3 
+T4	Attribute 1084 1100	some information
+R1	Flow Arg1:T4 Arg2:T1	
+R2	Flow Arg1:T4 Arg2:E1	
+R3	Flow Arg1:E1 Arg2:E2	

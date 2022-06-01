@@ -1,0 +1,89 @@
+T1	Sender 2888 2901	 our visitors
+T2	Sender 2922 2937	other companies
+T3	Subject 2850 2869	our online visitors
+T4	Attribute 2832 2869	information about our online visitors
+T5	Recipient 2821 2823	We
+T6	Transmission_Principle 2987 3033	to communicate with our supporters and clients
+E1	Transmission_Principle:T6
+T7	Transmission_Principle 3038 3064	process their transactions
+E2	Transmission_Principle:T7
+*	F1 T1 T2 T5 T7 T4 T6 T3
+T8	Subject 3312 3316	your
+T9	Attribute 3317 3321	name
+T10	Attribute 3323 3330	address
+T11	Attribute 3332 3347	phone number(s)
+T12	Attribute 3353 3398	other information relevant to the transaction
+T13	Recipient 3293 3295	we
+T14	Transmission_Principle 3109 3175	When you use our websites or apps to make a financial contribution
+E3	Transmission_Principle:T14
+T15	Transmission_Principle 3109 3146;3177 3215	When you use our websites or apps to  register for a class or special event,
+E4	Transmission_Principle:T15
+T16	Transmission_Principle 3109 3146;3216 3237	When you use our websites or apps to  sign up to volunteer,
+E5	Transmission_Principle:T16
+T17	Transmission_Principle 3109 3146;3238 3254	When you use our websites or apps to  apply for a job,
+E6	Transmission_Principle:T17
+T18	Transmission_Principle 3109 3146;3258 3292	When you use our websites or apps to  make a blood donation appointment,
+E7	Transmission_Principle:T18
+*	F2 T9 T12 T13 T11 T17 T10 T18 T15 T8 T16 T14
+T19	Attribute 3416 3448	standard credit card information
+T20	Transmission_Principle 3449 3500	when you make a financial donation, pay for a class
+E8	Transmission_Principle:T20
+T21	Transmission_Principle 3448 3463;3510 3521	 when you make  a purchase.
+E9	Transmission_Principle:T21
+*	F3 T19 T21 T20
+T22	Sender 3576 3589	other sources
+T23	Subject 3551 3570	our online visitors
+T24	Attribute 3533 3570	information about our online visitors
+T25	Recipient 3523 3525	We
+T26	Transmission_Principle 3629 3677	 that provide contact information and other data
+E10	Transmission_Principle:T26
+T27	Transmission_Principle 3695 3829	 to help us engage with people who may be interested in participating in Red Cross activities or contributing to the Red Cross mission
+E11	Transmission_Principle:T27
+*	F4 T27 T25 T22 T23 T24 T26
+*	F5 
+T28	Sender 5371 5374	you
+T29	Attribute 5402 5422	personal information
+T30	Recipient 5382 5396	 the Red Cross
+T31	Transmission_Principle 5423 5450	when you visit our websites
+E12	Transmission_Principle:T31
+T32	Transmission_Principle 5454 5473	use our mobile apps
+E13	Transmission_Principle:T32
+T33	Transmission_Principle 5482 5532	use the information in our programs and activities
+E14	Transmission_Principle:T33
+*	F6 T28 T32 T30 T33 T29 T31
+T34	Sender 5534 5536	We
+T35	Subject 5547 5551	your
+T36	Attribute 5552 5563	information
+T37	Recipient 5576 5589	our databases
+T38	Transmission_Principle 5600 5632	contact you to obtain your input
+E15	Transmission_Principle:T38
+T39	Transmission_Principle 5634 5683	provide information about our programs and events
+E16	Transmission_Principle:T39
+T40	Transmission_Principle 5685 5702	request donations
+E17	Transmission_Principle:T40
+*	F7 T39 T34 T36 T37 T35 T38 T40
+T41	Sender 6043 6056	the Red Cross
+T42	Subject 6067 6071	your
+T43	Attribute 6071 6083	 information
+T44	Recipient 6089 6101;6120 6166	our vendors  that help us with our activities and programs.
+T45	Transmission_Principle 6030 6041	On occasion
+E18	Transmission_Principle:T45
+T46	Transmission_Principle 6104 6165	 other partners that help us with our activities and programs
+E19	Transmission_Principle:T46
+*	F8 T46 T42 T43 T44 T45 T41
+T47	Sender 6180 6182	we
+T48	Attribute 6188 6200	 information
+T49	Recipient 6206 6241	vendors that help us fulfill orders
+T50	Recipient 6205 6227;6243 6255	 vendors that help us  manage data,
+T51	Recipient 6206 6227;6260 6278	vendors that help us  process donations 
+T52	Recipient 6205 6235;6282 6303	 vendors that help us fulfill  credit card payments.
+T53	Transmission_Principle 6322 6360	bound by strict confidentiality rules 
+E20	Transmission_Principle:T53
+T54	Transmission_Principle 6368 6437	permitted to use the information only to support Red Cross operations
+E21	Transmission_Principle:T54
+*	F9 T54 T51 T47 T50 T52 T53 T48 T49
+T55	Sender 6439 6441	We
+T56	Attribute 6455 6467	 information
+T57	Transmission_Principle 6468 6486	as required by law
+E22	Transmission_Principle:T57
+*	F10 T57 T55 T56

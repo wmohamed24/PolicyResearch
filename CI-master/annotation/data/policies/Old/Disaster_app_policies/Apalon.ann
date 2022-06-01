@@ -1,0 +1,25 @@
+T1	Transmission_Principle 2924 2974	When you create an account in some of our services
+E1	Transmission_Principle:T1 
+T2	Sender 2976 2979	you
+T3	Recipient 2988 2990	us
+T4	Subject 2996 3000	your
+T5	Attribute 3001 3018	login credentials
+T6	Attribute 3028 3041	email address
+T7	Attribute 3043 3047	name
+T8	Attribute 3052 3060	password
+*	Flow E1 T2 T3 T4 T5 T6 T7 T8
+T9	Recipient 2482 2484	We
+T10	Attribute 2498 2519	information generated
+T11	Transmission_Principle 2520 2543	as you use our services
+E2	Transmission_Principle:T11 
+T12	Attribute 2556 2567	information
+T13	Sender 2573 2586	third parties
+T14	Transmission_Principle 2593 2667	when you access our services through your Facebook account in Weather Live
+E3	Transmission_Principle:T14 
+T15	Subject 2669 2673	Your
+T16	Attribute 2674 2685	information
+T17	Transmission_Principle 2701 2723	an identifiable format
+E4	Transmission_Principle:T17 
+T18	Transmission_Principle 2728 2750	in an aggregate format
+E5	Transmission_Principle:T18 
+*	Flow T9 T10 E2 T12 T13 E3 T15 T16 E4

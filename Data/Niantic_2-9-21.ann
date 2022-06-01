@@ -1,0 +1,1084 @@
+T1	Aim 217 228	To do that,
+E1	Aim:T1 
+T2	Recipient 229 231	we
+T3	Attribute 237 248	information
+T4	Subject 255 258	you
+T5	Recipient 311 313	We
+T6	Condition 340 377	where we have a legal basis to do so.
+E2	Condition:T6 
+T7	Attribute 323 339	your information
+R1	Flow Arg1:E1 Arg2:T2	
+R2	Flow Arg1:T2 Arg2:T3	
+R3	Flow Arg1:T3 Arg2:T4	
+R4	Flow Arg1:T4 Arg2:T5	
+R5	Flow Arg1:T5 Arg2:T7	
+R6	Flow Arg1:T7 Arg2:E2	
+T8	Recipient 1330 1343	Niantic, Inc.
+T9	Attribute 1481 1506	your personal information
+T10	Condition 1509 1605	If however you are based in the United Kingdom (UK), Russia or the European Economic Area (EEA),
+E3	Condition:T10 
+T11	Recipient 1630 1669	Niantic International Limited in the UK
+T12	Attribute 1606 1615	your data
+R7	Flow Arg1:T8 Arg2:T9	
+R8	Flow Arg1:T9 Arg2:E3	
+R9	Flow Arg1:E3 Arg2:T12	
+R10	Flow Arg1:T12 Arg2:T11	
+T13	Recipient 2167 2169	We
+T14	Modality 2170 2174	need
+E4	Modality:T14 
+T15	Attribute 2194 2215	certain Personal Data
+T16	Aim 2216 2309	to provide the Services to you and fulfil the promises we make to you in the Terms of Service
+E5	Aim:T16 
+T17	Subject 2243 2246	you
+T18	Subject 2282 2285	you
+R11	Flow Arg1:T13 Arg2:E4	
+R12	Flow Arg1:E4 Arg2:T15	
+R13	Flow Arg1:T15 Arg2:T17	
+R14	Flow Arg1:T17 Arg2:E5	
+R15	Flow Arg1:E5 Arg2:T18	
+T19	Condition 2314 2347	When you sign up for our Services
+E6	Condition:T19 
+T20	Subject 2319 2322	you
+T21	Sender 2319 2322	you
+T22	Subject 2348 2351	you
+T23	Sender 2348 2351	you
+T24	Attribute 2360 2373	Personal Data
+T25	Condition 2421 2453	when you sign up for an account.
+E7	Condition:T25 
+T26	Recipient 2357 2359	us
+T27	Recipient 2405 2407	us
+T28	Condition 2374 2385	voluntarily
+E8	Condition:T28 
+R16	Flow Arg1:T20 Arg2:T21	
+R17	Flow Arg1:T21 Arg2:E6	
+R18	Flow Arg1:E6 Arg2:T22	
+R19	Flow Arg1:T22 Arg2:T23	
+R20	Flow Arg1:T23 Arg2:T26	
+R21	Flow Arg1:T26 Arg2:T24	
+R22	Flow Arg1:T24 Arg2:E8	
+R23	Flow Arg1:E8 Arg2:T27	
+R24	Flow Arg1:T27 Arg2:E7	
+T29	Recipient 2454 2456	We
+T30	Attribute 2473 2489	that information
+T31	Aim 2490 2518	in order to authenticate you
+E9	Aim:T31 
+T32	Subject 2515 2518	you
+T33	Subject 2524 2527	you
+T34	Sender 2524 2527	you
+T35	Aim 2570 2633	to make sure you are eligible and able to receive the Services,
+E10	Aim:T35 
+T36	Subject 2583 2586	you
+T37	Consequence 2638 2693	so that you receive the correct version of the Services
+E11	Consequence:T37 
+T38	Subject 2646 2649	you
+T39	Attribute 2721 2729	your age
+T40	Attribute 2735 2751	in-game username
+T41	Attribute 2791 2811	internal account IDs
+R25	Flow Arg1:E7 Arg2:T29	
+R26	Flow Arg1:T29 Arg2:T30	
+R27	Flow Arg1:T30 Arg2:E9	
+R28	Flow Arg1:E9 Arg2:T32	
+R29	Flow Arg1:T32 Arg2:T33	
+R30	Flow Arg1:T33 Arg2:T34	
+R31	Flow Arg1:T34 Arg2:T36	
+R32	Flow Arg1:T36 Arg2:E10	
+R33	Flow Arg1:E10 Arg2:T38	
+R34	Flow Arg1:T38 Arg2:E11	
+R35	Flow Arg1:E11 Arg2:T39	
+R36	Flow Arg1:T39 Arg2:T40	
+R37	Flow Arg1:T40 Arg2:T41	
+T42	Condition 2847 2920	You must have an account with a supported external single sign-on service
+E12	Condition:T42 
+T43	Consequence 2921 2940	to use our Services
+E13	Consequence:T43 
+T44	Attribute 2951 2968	the Personal Data
+T45	Recipient 2969 2971	we
+T46	Condition 2985 3037	depends on which external accounts you choose to use
+E14	Condition:T46 
+T47	Condition 3039 3060	their privacy policy,
+E15	Condition:T47 
+T48	Condition 3065 3111	what your privacy settings with those services
+E16	Condition:T48 
+T49	Consequence 3112 3117	allow
+E17	Consequence:T49 
+T50	Attribute 3128 3182	when you use their services to access Niantic Services
+T51	Subject 3133 3136	you
+R38	Flow Arg1:E12 Arg2:E13	
+R39	Flow Arg1:E13 Arg2:T44	
+R40	Flow Arg1:T44 Arg2:T45	
+R41	Flow Arg1:T45 Arg2:E14	
+R42	Flow Arg1:E14 Arg2:E15	
+R43	Flow Arg1:E15 Arg2:E16	
+R44	Flow Arg1:E16 Arg2:E17	
+R45	Flow Arg1:E17 Arg2:T51	
+R46	Flow Arg1:T51 Arg2:T50	
+T52	Condition 3187 3245	If you choose to link your Google account to the Services,
+E18	Condition:T52 
+T53	Subject 3190 3193	you
+T54	Sender 3190 3193	you
+T55	Recipient 3246 3248	we
+T56	Attribute 3267 3335	Google email address and an authentication token provided by Google.
+R47	Flow Arg1:T53 Arg2:T54	
+R48	Flow Arg1:T54 Arg2:E18	
+R49	Flow Arg1:E18 Arg2:T55	
+R50	Flow Arg1:T55 Arg2:T56	
+T57	Condition 3339 3398	If you choose to link your Facebook account to the Services
+E19	Condition:T57 
+T58	Subject 3342 3345	you
+T59	Sender 3342 3345	you
+T60	Recipient 3400 3402	we
+T61	Attribute 3416 3453	a unique user ID provided by Facebook
+T62	Condition 3459 3478	if permitted by you
+E20	Condition:T62 
+T63	Subject 3475 3478	you
+T64	Sender 3475 3478	you
+T65	Attribute 3480 3519	your Facebook registered email address.
+R51	Flow Arg1:T58 Arg2:T59	
+R52	Flow Arg1:T59 Arg2:E19	
+R53	Flow Arg1:E19 Arg2:T60	
+R54	Flow Arg1:T60 Arg2:T61	
+R55	Flow Arg1:T61 Arg2:E20	
+R56	Flow Arg1:E20 Arg2:T63	
+R57	Flow Arg1:T63 Arg2:T64	
+R58	Flow Arg1:T64 Arg2:T65	
+T66	Condition 3523 3580	If you choose to link your Apple account to the Services,
+E21	Condition:T66 
+T67	Subject 3526 3529	you
+T68	Sender 3526 3529	you
+T69	Recipient 3581 3583	we
+T70	Attribute 3597 3650	your email address on file with your Apple ID account
+T71	Attribute 3656 3685	private relayed email address
+T72	Condition 3686 3721	if you use the Hide My Email option
+E22	Condition:T72 
+T73	Subject 3689 3692	you
+T74	Sender 3689 3692	you
+R59	Flow Arg1:T67 Arg2:T68	
+R60	Flow Arg1:T68 Arg2:E21	
+R61	Flow Arg1:E21 Arg2:T69	
+R62	Flow Arg1:T69 Arg2:T70	
+R63	Flow Arg1:T70 Arg2:T71	
+R64	Flow Arg1:T71 Arg2:T73	
+R65	Flow Arg1:T73 Arg2:T74	
+R66	Flow Arg1:T74 Arg2:E22	
+T75	Subject 3780 3783	you
+T77	Condition 3744 3795	Depending on the particular Service you sign up for
+E23	Condition:T77 
+T78	Recipient 3797 3799	we
+T79	Modality 3800 3850	may support other external single sign-on services
+E24	Modality:T79 
+T80	Attribute 3863 3897	additional Personal Data from them
+T76	Sender 3893 3897	them
+R67	Flow Arg1:E23 Arg2:T75	
+R68	Flow Arg1:T75 Arg2:T78	
+R69	Flow Arg1:T78 Arg2:E24	
+R70	Flow Arg1:E24 Arg2:T80	
+R71	Flow Arg1:T80 Arg2:T76	
+T81	Recipient 4206 4208	We
+T82	Attribute 4225 4281	your device location information as you use our Services
+T83	Attribute 4428 4486	how you move around and events that occur during gameplay.
+T84	Subject 4261 4264	you
+T85	Sender 4261 4264	you
+T86	Subject 4432 4435	you
+T87	Condition 4288 4358	if you elect to turn on background location tracking for our Services,
+E25	Condition:T87 
+T88	Consequence 4359 4415	while you are not directly interacting with the Services
+E26	Consequence:T88 
+T89	Aim 4551 4617	to provide a gameplay experience tied to your real world location,
+E27	Aim:T89 
+T90	Recipient 4621 4623	we
+T91	Modality 4624 4628	need
+E28	Modality:T91 
+T92	Attribute 4637 4650	where you are
+T93	Aim 4651 4728	to operate these games for you, and to plan the location of in-game resources
+E29	Aim:T93 
+T94	Subject 4643 4646	you
+T95	Subject 4678 4681	you
+T96	Recipient 4772 4774	We
+T97	Attribute 4784 4797	your location
+T98	Subject 4862 4865	you
+T99	Sender 4862 4865	you
+R72	Flow Arg1:T81 Arg2:T82	
+R73	Flow Arg1:T82 Arg2:T84	
+R74	Flow Arg1:T84 Arg2:T85	
+R75	Flow Arg1:T85 Arg2:E25	
+R76	Flow Arg1:E25 Arg2:E26	
+R77	Flow Arg1:E26 Arg2:T86	
+R78	Flow Arg1:T86 Arg2:T83	
+R79	Flow Arg1:T83 Arg2:E27	
+R80	Flow Arg1:E27 Arg2:T90	
+R81	Flow Arg1:T90 Arg2:E28	
+R82	Flow Arg1:E28 Arg2:T92	
+R83	Flow Arg1:T92 Arg2:T94	
+R84	Flow Arg1:T94 Arg2:T95	
+R85	Flow Arg1:T95 Arg2:E29	
+R86	Flow Arg1:E29 Arg2:T96	
+R87	Flow Arg1:T96 Arg2:T97	
+R88	Flow Arg1:T97 Arg2:T98	
+R89	Flow Arg1:T98 Arg2:T99	
+T100	Recipient 4940 4942	We
+T101	Attribute 4964 5001	your in-game actions and achievements
+T102	Attribute 5014 5058	certain information about your mobile device
+T103	Attribute 5070 5215	device identifiers, device OS, model, configuration, settings and information about third party applications or software installed on your device
+T104	Aim 5218 5302	to operate the Services for you and to personalize your gameplay and user experience
+E30	Aim:T104 
+T105	Subject 5246 5249	you
+R90	Flow Arg1:T100 Arg2:T101	
+R91	Flow Arg1:T101 Arg2:T102	
+R92	Flow Arg1:T102 Arg2:T103	
+R93	Flow Arg1:T103 Arg2:T105	
+R94	Flow Arg1:T105 Arg2:E30	
+T106	Recipient 5307 5309	We
+T107	Attribute 5319 5340	the information above
+R97	Flow Arg1:E30 Arg2:T106
+R95	Flow Arg1:T106 Arg2:T107	
+T108	Aim 5341 5437	to show in-game sponsored locations that are in your vicinity as part of the gameplay experience
+E31	Aim:T108 
+R96	Flow Arg1:T107 Arg2:E31	
+T109	Recipient 5442 5444	We
+T110	Attribute 5457 5478	the information above
+R98	Flow Arg1:E31 Arg2:T109	
+T111	Aim 5479 5537	in order to provide technical and customer support to you.
+E32	Aim:T111 
+T112	Subject 5533 5536	you
+R99	Flow Arg1:T109 Arg2:T110	
+R100	Flow Arg1:T110 Arg2:E32	
+R101	Flow Arg1:E32 Arg2:T112	
+T113	Subject 5541 5544	You
+T114	Sender 5541 5544	You
+T115	Attribute 5558 5571	Personal Data
+T116	Condition 5572 5608	when you make a purchase through us,
+E33	Condition:T116 
+T117	Subject 5577 5580	you
+T118	Sender 5577 5580	you
+T119	Condition 5609 5638	subscribe to our publications
+E34	Condition:T119 
+T120	Condition 5640 5665	register for a live event
+E35	Condition:T120 
+T121	Condition 5667 5697	enter a competition, promotion
+E36	Condition:T121 
+T122	Condition 5699 5743	sweepstakes or survey or communicate with us
+E37	Condition:T122 
+T125	Condition 5745 5790	Depending on which of these Services you use,
+E38	Condition:T125 
+T126	Modality 5796 5799	may
+E39	Modality:T126 
+T127	Attribute 5808 5894	your name, mailing address, phone number, country of residency, age, and email address
+T128	Recipient 5896 5898	We
+T129	Attribute 5903 5919	that information
+T130	Aim 5920 5999	to fulfil those Services to you and to provide related customer support to you.
+E40	Aim:T130 
+T131	Subject 5948 5951	you
+T132	Subject 5995 5998	you
+R102	Flow Arg1:T113 Arg2:T114	
+R103	Flow Arg1:T114 Arg2:T115	
+R104	Flow Arg1:T115 Arg2:T117	
+R105	Flow Arg1:T117 Arg2:T118	
+R106	Flow Arg1:T118 Arg2:E33	
+R107	Flow Arg1:E33 Arg2:E34	
+R108	Flow Arg1:E34 Arg2:E35	
+R109	Flow Arg1:E35 Arg2:E36	
+R110	Flow Arg1:E36 Arg2:E37
+R111	Flow Arg1:E37 Arg2:T123	
+R112	Flow Arg1:T123 Arg2:E38		
+R113	Flow Arg1:E38 Arg2:E39	
+R114	Flow Arg1:E39 Arg2:T127	
+R115	Flow Arg1:T127 Arg2:T128	
+R116	Flow Arg1:T128 Arg2:T129	
+R117	Flow Arg1:T129 Arg2:T131	
+R118	Flow Arg1:T131 Arg2:E40	
+R119	Flow Arg1:E40 Arg2:T132	
+T133	Aim 6532 6580	to understand who is using our Services and how.
+E41	Aim:T133 
+T134	Attribute 6104 6119	your IP address
+T135	Attribute 6121 6133	browser type
+T136	Attribute 6135 6152	operating system,
+T137	Attribute 6153 6213	the web page you were visiting before accessing our Services
+T138	Subject 6166 6169	you
+T139	Attribute 6215 6284	the pages of our Services which you browsed or the features you used,
+T140	Subject 6247 6250	you
+T141	Subject 6275 6278	you
+T142	Attribute 6289 6330	the time spent on those pages or features
+T143	Attribute 6332 6375	the links on our Services that you click on
+T144	Subject 6363 6366	you
+T145	Recipient 6013 6015	we
+T146	Attribute 6064 6082	your Personal Data
+R120	Flow Arg1:T145 Arg2:T146	
+T147	Attribute 6377 6531	device and advertising identifiers, age, as well as actions you take during gameplay, your in-game user settings and preferences and your in-app purchases
+R121	Flow Arg1:T134 Arg2:T135	
+R122	Flow Arg1:T135 Arg2:T136	
+R123	Flow Arg1:T136 Arg2:T138	
+R124	Flow Arg1:T138 Arg2:T137	
+R125	Flow Arg1:T137 Arg2:T139	
+R126	Flow Arg1:T139 Arg2:T140	
+R127	Flow Arg1:T140 Arg2:T141	
+R128	Flow Arg1:T141 Arg2:T142	
+R129	Flow Arg1:T142 Arg2:T143	
+R130	Flow Arg1:T143 Arg2:T144	
+R131	Flow Arg1:T144 Arg2:T147	
+R132	Flow Arg1:T147 Arg2:E41	
+T148	Attribute 6590 6641	your contact information, namely your email address
+T149	Aim 6642 6716	in order to communicate with you to provide technical and customer support
+E42	Aim:T149 
+T150	Subject 6671 6674	you
+R133	Flow Arg1:T148 Arg2:T150	
+R134	Flow Arg1:T150 Arg2:E42	
+T151	Attribute 6727 6772	your internal account ID and in-game username
+T152	Aim 6773 6827	in order to attribute to your account any user content
+E43	Aim:T152 
+T153	Condition 6863 6920	that you elect to submit to Niantic through the Services.
+E44	Condition:T153 
+R135	Flow Arg1:T151 Arg2:E43	
+R136	Flow Arg1:E43 Arg2:E44	
+T154	Attribute 7086 7127	your email address and device information
+T155	Aim 7128 7171	in order to share updates and news with you
+E45	Aim:T155 
+T156	Subject 7168 7171	you
+T157	Condition 7172 7208	either within the games or by email.
+E46	Condition:T157 
+R137	Flow Arg1:T154 Arg2:E45	
+R138	Flow Arg1:E45 Arg2:T156	
+R139	Flow Arg1:T156 Arg2:E46	
+T158	Attribute 7309 7346	your in-game actions and achievements
+T159	Aim 7347 7465	to show you rewards, promotions, or other offers about our Services that are tailored to your personal user experience
+E47	Aim:T159 
+T160	Subject 7355 7358	you
+R140	Flow Arg1:T158 Arg2:T160	
+R141	Flow Arg1:T160 Arg2:E47	
+T161	Recipient 9884 9886	We
+T162	Attribute 9906 9919	Personal Data
+T163	Aim 9920 9939	to do the following
+E48	Aim:T163 
+T164	Condition 9940 9964	if we have your consent:
+E49	Condition:T164 
+R142	Flow Arg1:T161 Arg2:T162	
+R143	Flow Arg1:T162 Arg2:E48	
+R144	Flow Arg1:E48 Arg2:E49	
+T165	Condition 9968 10036	If you elect to turn on background activity tracking in our Services
+E50	Condition:T165 
+T166	Sender 9971 9974	you
+T167	Subject 9971 9974	you
+T168	Recipient 10080 10082	we
+T169	Attribute 10096 10114	your Personal Data
+T170	Condition 10115 10221	as you use the Services as well as in the background when you do not have the Services open on your device
+E51	Condition:T170 
+T171	Attribute 10237 10257	your device location
+T172	Attribute 10262 10288	your fitness activity data
+T173	Attribute 10298 10308	Step Count
+T174	Attribute 10310 10325	Calories Burned
+T175	Attribute 10331 10346	Distance Walked
+T176	Recipient 10349 10351	We
+T177	Attribute 10356 10384	background activity tracking
+T178	Aim 10385 10561	to provide you certain functionalities in the Services such as in-game items and rewards tied to your fitness activity level and location, and alerts for nearby gameplay events
+E52	Aim:T178 
+R145	Flow Arg1:T167 Arg2:T166	
+R146	Flow Arg1:T166 Arg2:E50	
+R147	Flow Arg1:E50 Arg2:T168	
+R148	Flow Arg1:T168 Arg2:T169	
+R149	Flow Arg1:T169 Arg2:E51	
+R150	Flow Arg1:E51 Arg2:T171	
+R151	Flow Arg1:T171 Arg2:T172	
+R152	Flow Arg1:T172 Arg2:T173	
+R153	Flow Arg1:T173 Arg2:T174	
+R154	Flow Arg1:T174 Arg2:T175	
+R155	Flow Arg1:T175 Arg2:T176	
+R156	Flow Arg1:T176 Arg2:T177	
+R157	Flow Arg1:T177 Arg2:E52	
+T179	Condition 10686 10706	With your permission
+E53	Condition:T179 
+T180	Recipient 10707 10709	we
+T181	Attribute 10714 10738	your device’s health app
+T182	Attribute 10740 10755	Apple HealthKit
+T183	Condition 10756 10782	if you use an Apple device
+E54	Condition:T183 
+T184	Attribute 10787 10797	Google Fit
+T185	Condition 10798 10826	if you use an Android device
+E55	Condition:T185 
+T186	Aim 10828 10838	to collect
+E56	Aim:T186 
+T187	Attribute 10839 10865	your fitness activity data
+T188	Recipient 10867 10869	we
+T189	Attribute 10888 10914	your fitness activity data
+T190	Aim 10943 11095	to operate background activity tracking and to ensure you get “credit” in your device’s health app for all of the walking you do while playing our games
+E57	Aim:T190 
+R158	Flow Arg1:E53 Arg2:T180	
+R159	Flow Arg1:T180 Arg2:T181	
+R160	Flow Arg1:T181 Arg2:T182	
+R161	Flow Arg1:T182 Arg2:E54	
+R162	Flow Arg1:E54 Arg2:T184	
+R163	Flow Arg1:T184 Arg2:E55	
+R164	Flow Arg1:E55 Arg2:E56	
+R165	Flow Arg1:E56 Arg2:T187	
+R166	Flow Arg1:T187 Arg2:T188	
+R167	Flow Arg1:T188 Arg2:T189	
+R168	Flow Arg1:T189 Arg2:E57	
+T191	Recipient 11097 11099	We
+T192	Modality 11100 11106	do not
+E58	Modality:T192 
+T193	Attribute 11111 11172	data collected through Apple Health Kit or through Google Fit
+T194	Aim 11173 11210	for marketing or advertising purposes
+E59	Aim:T194 
+T195	Recipient 11212 11224	Our Services
+T196	Modality 11225 11231	cannot
+E60	Modality:T196 
+T197	Attribute 11254 11278	your device’s health app
+T198	Condition 11279 11299	without your consent
+E61	Condition:T198 
+R169	Flow Arg1:T191 Arg2:E58	
+R170	Flow Arg1:E58 Arg2:T193	
+R171	Flow Arg1:T193 Arg2:E59	
+R172	Flow Arg1:E59 Arg2:T195	
+R173	Flow Arg1:T195 Arg2:E60	
+R174	Flow Arg1:E60 Arg2:T197	
+R175	Flow Arg1:T197 Arg2:E61	
+T199	Subject 11469 11472	you
+T200	Sender 11469 11472	you
+T201	Condition 11466 11556	If you elect to enable the Facebook User Friends permission available in some of our games
+E62	Condition:T201 
+T202	Recipient 11558 11560	we
+T203	Attribute 11607 11654	the list of your friends who also play the game
+T204	Condition 11659 11688	enabled Facebook User Friends
+E63	Condition:T204 
+T205	Condition 11690 11719	If you enable that permission
+E64	Condition:T205 
+T206	Subject 11693 11696	you
+T207	Sender 11693 11696	you
+T208	Attribute 11721 11788	your Facebook profile picture and the name on your Facebook account
+T209	Recipient 11813 11828	friends in-game
+R176	Flow Arg1:T199 Arg2:T200	
+R177	Flow Arg1:T200 Arg2:E62	
+R178	Flow Arg1:E62 Arg2:T202	
+R179	Flow Arg1:T202 Arg2:T203	
+R180	Flow Arg1:T203 Arg2:E63	
+R181	Flow Arg1:E63 Arg2:T206	
+R182	Flow Arg1:T206 Arg2:T207	
+R183	Flow Arg1:T207 Arg2:E64	
+R184	Flow Arg1:E64 Arg2:T208	
+R185	Flow Arg1:T208 Arg2:T209	
+T210	Condition 12034 12126	If you elect to add information about Niantic live or in-game events to your mobile calendar
+E65	Condition:T210 
+T211	Subject 12037 12040	you
+T212	Sender 12037 12040	you
+T213	Recipient 12128 12130	we
+T214	Condition 12137 12157	with your permission
+E66	Condition:T214 
+T215	Attribute 12166 12188	your device’s calendar
+T216	Recipient 12216 12218	We
+T217	Modality 12219 12225	do not
+E67	Modality:T217 
+T218	Attribute 12244 12284	any other information from your calendar
+R186	Flow Arg1:T211 Arg2:T212	
+R187	Flow Arg1:T212 Arg2:E65	
+R188	Flow Arg1:E65 Arg2:T213	
+R189	Flow Arg1:T213 Arg2:E66	
+R190	Flow Arg1:E66 Arg2:T215	
+R191	Flow Arg1:T215 Arg2:T216	
+R192	Flow Arg1:T216 Arg2:E67	
+R193	Flow Arg1:E67 Arg2:T218	
+T219	Condition 13023 13146	If you elect to connect your game account with an authorized external device, such as the Pokémon Go Plus or Poké Ball Plus
+E68	Condition:T219 
+T220	Subject 13026 13029	you
+T221	Sender 13026 13029	you
+T222	Recipient 13148 13150	we
+T223	Attribute 13159 13204	Bluetooth permissions from your mobile device
+T224	Aim 13205 13288	in order to connect it with the external device and enable associated game features
+E69	Aim:T224 
+R194	Flow Arg1:T220 Arg2:T221	
+R195	Flow Arg1:T221 Arg2:E68	
+R196	Flow Arg1:E68 Arg2:T222	
+R197	Flow Arg1:T222 Arg2:T223	
+R198	Flow Arg1:T223 Arg2:E69	
+T225	Condition 13446 13504	If you elect to import your device’s address book contacts
+E70	Condition:T225 
+T226	Recipient 13666 13668	we
+T227	Sender 13449 13452	you
+T228	Subject 13449 13452	you
+T229	Attribute 13687 13768	sync your contacts’ information, including phone number and email, to our servers
+R199	Flow Arg1:T228 Arg2:T227	
+R200	Flow Arg1:T227 Arg2:E70	
+R201	Flow Arg1:E70 Arg2:T226	
+R202	Flow Arg1:T226 Arg2:T229	
+T230	Condition 14281 14380	If you elect to upload content, such as photos or videos from your mobile device, into our Services
+E71	Condition:T230 
+T231	Recipient 14382 14384	we
+T232	Subject 14284 14287	you
+T233	Sender 14284 14287	you
+T234	Condition 14391 14411	with your permission
+E72	Condition:T234 
+T235	Attribute 14425 14447	device’s media storage
+R203	Flow Arg1:T232 Arg2:T233	
+R204	Flow Arg1:T233 Arg2:E71	
+R205	Flow Arg1:E71 Arg2:T231	
+R206	Flow Arg1:T231 Arg2:E72	
+R207	Flow Arg1:E72 Arg2:T235	
+T236	Attribute 12547 12678	film public spaces around points of interest and send us your video recordings, along with associated device geospatial information
+T237	Attribute 12456 12463	Reality
+T123	Recipient 5741 5743	us
+T124	Condition 14449 14473	You can change your mind
+E73	Condition:T124 
+R208	Flow Arg1:T235 Arg2:E73	
+T238	Recipient 15295 15297	We
+T239	Modality 15298 15306	will not
+E74	Modality:T239 
+T240	Attribute 15317 15330	Personal Data
+T241	Recipient 15336 15338	we
+T242	Subject 15372 15375	you
+T243	Sender 15372 15375	you
+T244	Condition 15376 15401	except as described below
+E75	Condition:T244 
+R209	Flow Arg1:T238 Arg2:E74	
+R210	Flow Arg1:E74 Arg2:T240	
+R211	Flow Arg1:T240 Arg2:T241	
+R212	Flow Arg1:T241 Arg2:T242	
+R213	Flow Arg1:T242 Arg2:T243	
+R214	Flow Arg1:T243 Arg2:E75	
+T246	Consequence 15543 15558	As part of that
+E76	Consequence:T246 
+T247	Recipient 15559 15563	they
+T248	Attribute 15577 15595	your Personal Data
+T249	Condition 15596 15609	on our behalf
+E77	Condition:T249 
+R216	Flow Arg1:E76 Arg2:T247	
+R217	Flow Arg1:T247 Arg2:T248	
+R218	Flow Arg1:T248 Arg2:E77	
+T250	Recipient 15611 15643	These external service providers
+T251	Attribute 15659 15677	your Personal Data
+T252	Condition 15678 15775	only for the purpose of performing services on our behalf, in compliance with this Privacy Policy
+E78	Condition:T252 
+T253	Modality 15820 15891	obliged not to disclose or use your Personal Data for any other purpose
+E79	Modality:T253 
+R219	Flow Arg1:T250 Arg2:T251	
+R220	Flow Arg1:T251 Arg2:E78	
+R221	Flow Arg1:E78 Arg2:E79	
+R222	Flow Arg1:E77 Arg2:T250	
+T245	Recipient 16662 16693	Some external service providers
+T254	Modality 16694 16697	may
+E80	Modality:T254 
+T255	Attribute 16711 16722	information
+T256	Subject 16737 16740	you
+T257	Sender 16737 16740	you
+T258	Recipient 16757 16774	payment processor
+T259	Modality 16775 16778	may
+E81	Modality:T259 
+T260	Attribute 16787 16825	your billing and financial information
+T261	Condition 16852 16895	in accordance with their own privacy policy
+E82	Condition:T261 
+T262	Recipient 16902 16927	external service provider
+T263	Modality 16928 16942	does not share
+E83	Modality:T263 
+T264	Attribute 16943 16969	your financial information
+T265	Attribute 16976 16994	credit card number
+T266	Recipient 17014 17016	it
+T267	Modality 17017 17020	may
+E84	Modality:T267 
+T268	Attribute 17027 17046	limited information
+T269	Condition 17047 17079	with us related to your purchase
+E85	Condition:T269 
+T270	Attribute 17091 17094	zip
+T271	Attribute 17098 17109	postal code
+R215	Flow Arg1:T245 Arg2:E80	
+R223	Flow Arg1:E80 Arg2:T255	
+R224	Flow Arg1:T255 Arg2:T256	
+R225	Flow Arg1:T256 Arg2:T257	
+R226	Flow Arg1:T257 Arg2:T258	
+R227	Flow Arg1:T258 Arg2:E81	
+R228	Flow Arg1:E81 Arg2:T260	
+R229	Flow Arg1:T260 Arg2:E82	
+R230	Flow Arg1:E82 Arg2:T262	
+R231	Flow Arg1:T262 Arg2:E83	
+R232	Flow Arg1:E83 Arg2:T264	
+R233	Flow Arg1:T264 Arg2:T265	
+R234	Flow Arg1:T265 Arg2:T266	
+R235	Flow Arg1:T266 Arg2:E84	
+R236	Flow Arg1:E84 Arg2:T268	
+R237	Flow Arg1:T268 Arg2:E85	
+R238	Flow Arg1:E85 Arg2:T270	
+R239	Flow Arg1:T270 Arg2:T271	
+T272	Condition 17150 17175	When you use the Services
+E86	Condition:T272 
+T273	Subject 17155 17158	you
+T274	Sender 17155 17158	you
+T275	Condition 17195 17218	when you play our games
+E87	Condition:T275 
+T276	Subject 17200 17203	you
+T277	Sender 17200 17203	you
+T278	Condition 17220 17258	use social features within those games
+E88	Condition:T278 
+T279	Condition 17295 17319	take part in live events
+E89	Condition:T279 
+T280	Recipient 17321 17323	we
+T281	Attribute 17335 17356	certain Personal Data
+T282	Attribute 17405 17425	your in-game profile
+T283	Attribute 17435 17496	your username, your avatar, your online status, and your team
+T284	Attribute 17499 17536	your in-game actions and achievements
+T285	Attribute 17538 17658	real-world locations associated with your gameplay, or with gameplay resources you interacted with when playing the game
+T286	Subject 17617 17620	you
+T287	Attribute 17780 17821	your in-game messages and related content
+T288	Subject 17822 17825	you
+T289	Sender 17822 17825	you
+T290	Condition 17822 17850	you share with other players
+E90	Condition:T290 
+T291	Condition 17866 17916	certain games link to third-party sharing features
+E91	Condition:T291 
+T292	Subject 17937 17940	you
+T293	Sender 17937 17940	you
+T294	Modality 17941 17944	can
+E92	Modality:T294 
+T295	Attribute 17961 17974	Personal Data
+T296	Recipient 17978 18005	others outside the Services
+R240	Flow Arg1:T273 Arg2:T274	
+R241	Flow Arg1:T274 Arg2:E86	
+R242	Flow Arg1:E86 Arg2:E87	
+R243	Flow Arg1:E87 Arg2:T276	
+R244	Flow Arg1:T276 Arg2:T277	
+R245	Flow Arg1:T277 Arg2:E88	
+R246	Flow Arg1:E88 Arg2:E89	
+R247	Flow Arg1:E89 Arg2:T280	
+R248	Flow Arg1:T280 Arg2:T281	
+R249	Flow Arg1:T281 Arg2:T282	
+R250	Flow Arg1:T282 Arg2:T283	
+R251	Flow Arg1:T283 Arg2:T284	
+R252	Flow Arg1:T284 Arg2:T285	
+R253	Flow Arg1:T285 Arg2:T286	
+R254	Flow Arg1:T286 Arg2:T287	
+R255	Flow Arg1:T287 Arg2:T289	
+R256	Flow Arg1:T288 Arg2:T289	
+R257	Flow Arg1:T289 Arg2:E90	
+R258	Flow Arg1:E90 Arg2:E91	
+R259	Flow Arg1:E91 Arg2:T293	
+R261	Flow Arg1:T293 Arg2:E92	
+R262	Flow Arg1:E92 Arg2:T295	
+R260	Flow Arg1:T293 Arg2:T292	
+R263	Flow Arg1:T295 Arg2:T296	
+T297	Condition 18141 18166	When you use the Services
+E93	Condition:T297 
+T298	Subject 18146 18149	you
+T299	Sender 18146 18149	you
+T300	Subject 18191 18194	you
+T301	Sender 18191 18194	you
+T302	Condition 18186 18209	when you play our games
+E94	Condition:T302 
+T303	Condition 18211 18235	use competitive features
+E95	Condition:T303 
+T304	Condition 18240 18265	participate in our forums
+E96	Condition:T304 
+T305	Attribute 18267 18292	the following information
+T306	Subject 18299 18302	you
+T307	Modality 18303 18306	may
+E97	Modality:T307 
+T308	Recipient 18344 18354	the public
+T309	Attribute 18396 18460	your username, in-game profile, achievements and public messages
+R264	Flow Arg1:E93 Arg2:T298	
+R265	Flow Arg1:T298 Arg2:T299	
+R266	Flow Arg1:T299 Arg2:E94	
+R267	Flow Arg1:E94 Arg2:T300	
+R268	Flow Arg1:T300 Arg2:T301	
+R269	Flow Arg1:T301 Arg2:E95	
+R270	Flow Arg1:E95 Arg2:E96	
+R271	Flow Arg1:E96 Arg2:T305	
+R272	Flow Arg1:T305 Arg2:T306	
+R273	Flow Arg1:T306 Arg2:E97	
+R274	Flow Arg1:E97 Arg2:T308	
+R275	Flow Arg1:T308 Arg2:T309	
+T310	Sender 18501 18503	We
+T311	Attribute 18510 18524	Anonymous Data
+T312	Recipient 18530 18543	third parties
+T313	Aim 18544 18576	for industry and market analysis
+E98	Aim:T313 
+T314	Sender 18578 18580	We
+T315	Modality 18581 18584	may
+E99	Modality:T315 
+R276	Flow Arg1:T310 Arg2:T311	
+R277	Flow Arg1:T311 Arg2:T312	
+R278	Flow Arg1:T312 Arg2:E98	
+T316	Attribute 18591 18604	Personal Data
+T317	Recipient 18610 18645	our third-party publishing partners
+T318	Aim 18646 18681	for their direct marketing purposes
+E100	Aim:T318 
+T319	Condition 18682 18721	only if we have your express permission
+E101	Condition:T319 
+R279	Flow Arg1:T314 Arg2:E99	
+R280	Flow Arg1:E99 Arg2:T316	
+R281	Flow Arg1:T316 Arg2:T317	
+R282	Flow Arg1:T317 Arg2:E100	
+R283	Flow Arg1:E100 Arg2:E101	
+T320	Sender 18723 18725	We
+T321	Modality 18726 18732	do not
+E102	Modality:T321 
+T322	Attribute 18739 18752	Personal Data
+T323	Recipient 18758 18781	any other third parties
+T324	Sender 19004 19006	We
+T325	Attribute 19018 19039	information about you
+T326	Subject 19036 19039	you
+T327	Recipient 19043 19101	government or law enforcement officials or private parties
+T328	Condition 19102 19153	when we reasonably believe necessary or appropriate
+E103	Condition:T328 
+T329	Aim 19159 19228	to respond to claims, legal process (including subpoenas and warrants
+E104	Aim:T329 
+T330	Aim 19238 19357	protect our property, rights, and safety and the property, rights, and safety of a third party or the public in general
+E105	Aim:T330 
+T331	Aim 19367 19462	to investigate and stop any activity that we consider illegal, unethical, or legally actionable
+E106	Aim:T331 
+R284	Flow Arg1:T324 Arg2:T325	
+R285	Flow Arg1:T325 Arg2:T326	
+R286	Flow Arg1:T326 Arg2:T327	
+R287	Flow Arg1:T327 Arg2:E103	
+R288	Flow Arg1:E103 Arg2:E104	
+R289	Flow Arg1:E104 Arg2:E105	
+R290	Flow Arg1:E105 Arg2:E106	
+T332	Condition 19618 19727	If we are acquired by a third party as a result of a transaction such as a merger, acquisition, or asset sale
+E107	Condition:T332 
+T333	Recipient 19642 19653	third party
+T334	Condition 19731 19829	if our assets are acquired by a third party in the event we go out of business or enter bankruptcy
+E108	Condition:T334 
+T335	Recipient 19763 19774	third party
+T336	Attribute 19831 19886	some or all of our assets, including your Personal Data
+T337	Consequence 19888 19981	will be disclosed or transferred to a third party acquirer in connection with the transaction
+E109	Consequence:T337 
+R291	Flow Arg1:T333 Arg2:E107	
+R292	Flow Arg1:E107 Arg2:T335	
+R293	Flow Arg1:T335 Arg2:E108	
+R294	Flow Arg1:E108 Arg2:T336	
+R295	Flow Arg1:T336 Arg2:E109	
+T338	Condition 20376 20451	If we transfer your Personal Data from the UK or the EEA to other countries
+E110	Condition:T338 
+T340	Attribute 20391 20409	your Personal Data
+T339	Sender 20379 20381	we
+T341	Recipient 20436 20451	other countries
+T342	Sender 20472 20474	we
+T343	Condition 20475 20551	ensure that a similar degree of protection is provided to your Personal Data
+E111	Condition:T343 
+T344	Attribute 20538 20551	Personal Data
+R296	Flow Arg1:T339 Arg2:T340	
+R297	Flow Arg1:T340 Arg2:E110	
+R298	Flow Arg1:E110 Arg2:T341	
+R299	Flow Arg1:T341 Arg2:T342	
+R300	Flow Arg1:T342 Arg2:E111	
+R301	Flow Arg1:E111 Arg2:T344	
+T345	Recipient 21456 21458	We
+T346	Modality 21464 21476	limit access
+E112	Modality:T346 
+T347	Attribute 21480 21498	your Personal Data
+R302	Flow Arg1:T345 Arg2:E112	
+R303	Flow Arg1:E112 Arg2:T347	
+T348	Recipient 21499 21556	to employees, agents, contractors and other third parties
+T349	Condition 21557 21589	who have a business need to know
+E113	Condition:T349 
+T350	Recipient 21591 21595	They
+T351	Attribute 21614 21632	your Personal Data
+T352	Condition 21636 21702	our instructions and they are subject to a duty of confidentiality
+E114	Condition:T352 
+R304	Flow Arg1:T347 Arg2:T348	
+R305	Flow Arg1:T348 Arg2:E113	
+R306	Flow Arg1:E113 Arg2:T350	
+R307	Flow Arg1:T350 Arg2:T351	
+R308	Flow Arg1:T351 Arg2:E114	
+T353	Recipient 21929 21931	We
+T354	Attribute 21937 21955	your Personal Data
+T355	Condition 21956 22009	for as long as we need to provide the Services to you
+E115	Condition:T355 
+T356	Condition 22014 22064	fulfil the purposes set out in this Privacy Policy
+E116	Condition:T356 
+T357	Subject 22006 22009	you
+R309	Flow Arg1:T353 Arg2:T354	
+R310	Flow Arg1:T354 Arg2:E115	
+R311	Flow Arg1:E115 Arg2:T357	
+R312	Flow Arg1:T357 Arg2:E116	
+T358	Condition 30842 30921	You can sign up for Pokémon GO using your external Pokémon Trainer Club (“PTC”)
+E117	Condition:T358 
+T359	Condition 30990 31012	If you choose to do so
+E118	Condition:T359 
+T360	Recipient 31014 31016	we
+T361	Attribute 31040 31117	your PTC registered email address, your PTC username and a unique PTC user ID
+R313	Flow Arg1:E117 Arg2:E118	
+R315	Flow Arg1:T360 Arg2:T361	
+T362	Subject 30993 30996	you
+T363	Sender 30993 30996	you
+R314	Flow Arg1:E118 Arg2:T362	
+R316	Flow Arg1:E118 Arg2:T363	
+R317	Flow Arg1:T363 Arg2:T360	
+T365	Sender 31122 31125	you
+T366	Condition 31119 31193	If you are registering your PTC account on behalf of your authorized child
+E119	Condition:T366 
+T367	Recipient 31194 31196	we
+T368	Attribute 31215 31251	some Personal Data about your child.
+R319	Flow Arg1:T365 Arg2:E119	
+R320	Flow Arg1:E119 Arg2:T367	
+R321	Flow Arg1:T367 Arg2:T368	
+T369	Sender 31849 31859	The Parent
+T370	Recipient 31884 31888	TPCI
+T371	Attribute 31889 31926	certain Personal Data about the Child
+T364	Subject 31240 31250	your child
+R318	Flow Arg1:T368 Arg2:T364	
+T372	Subject 31917 31926	the Child
+T373	Condition 31927 31969	in accordance with the TPCI privacy policy
+E120	Condition:T373 
+T374	Attribute 32028 32050	personal email address
+T375	Attribute 32056 32124	the date when the Child will grow out of the age limits listed above
+T376	Condition 32126 32229	For US residents, after a Parent has registered a PTC account, TPCI will verify the Parent’s identity
+E121	Condition:T376 
+T377	Condition 32378 32422	TPCI will not share that information with us
+E122	Condition:T377 
+T378	Condition 32424 32534	After TPCI verifies the Parent’s identity, it will ask the Parent to consent to the Child accessing Pokémon GO
+E123	Condition:T378 
+R322	Flow Arg1:T369 Arg2:T370	
+R323	Flow Arg1:T370 Arg2:T371	
+R324	Flow Arg1:T371 Arg2:T372	
+R325	Flow Arg1:T372 Arg2:E120	
+R326	Flow Arg1:E120 Arg2:T374	
+R327	Flow Arg1:T374 Arg2:T375	
+T382	Condition 33497 33573	If you are registering a Nintendo account on behalf of your authorized child
+E127	Condition:T382 
+T383	Subject 33552 33573	your authorized child
+T384	Sender 33500 33503	you
+T385	Recipient 33574 33576	we
+T386	Attribute 33595 33630	some Personal Data about your child
+R331	Flow Arg1:T384 Arg2:E127	
+R332	Flow Arg1:E127 Arg2:T383	
+R333	Flow Arg1:T383 Arg2:T385	
+R334	Flow Arg1:T385 Arg2:T386	
+T390	Sender 32154 32160	Parent
+T391	Sender 32212 32218	Parent
+T392	Attribute 32244 32376	the sum of the first and last digits of the Parent’s social security number and the Parent’s name, date of birth, and street address
+T393	Sender 32479 32489	the Parent
+T394	Subject 32508 32513	Child
+T396	Recipient 	
+R329	Flow Arg1:T390 Arg2:E121	
+R335	Flow Arg1:T391 Arg2:T392	
+R336	Flow Arg1:T392 Arg2:E122	
+R337	Flow Arg1:E122 Arg2:E123	
+R338	Flow Arg1:E123 Arg2:T393	
+R339	Flow Arg1:T393 Arg2:T394	
+T398	Recipient 32191 32195	TPCI
+R328	Flow Arg1:E121 Arg2:T398	
+R330	Flow Arg1:T398 Arg2:T391	
+T379	Sender 32785 32792	Parents
+T380	Modality 32811 32817	refuse
+E124	Modality:T380 
+T381	Modality 32818 32860	further collection, use, and/or disclosure
+E125	Modality:T381 
+T387	Subject 32864 32875	their Child
+T388	Attribute 32878 32891	Personal Data
+T389	Condition 32892 32907	by notifying us
+E126	Condition:T389 
+T395	Recipient 32905 32907	us
+R340	Flow Arg1:T379 Arg2:E124	
+R341	Flow Arg1:E124 Arg2:E125	
+R342	Flow Arg1:E125 Arg2:T387	
+R343	Flow Arg1:T387 Arg2:T388	
+R344	Flow Arg1:T388 Arg2:E126	
+R345	Flow Arg1:E126 Arg2:T395	
+T397	Sender 32942 32949	Niantic
+T399	Subject 32989 32999	your Child
+T400	Attribute 32989 33013	your Child’s information
+T401	Condition 33014 33040	collected via the Services
+E128	Condition:T401 
+T402	Recipient 33044 33055	third party
+T403	Aim 33066 33181	for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy
+E129	Aim:T403 
+R346	Flow Arg1:T397 Arg2:T399	
+R347	Flow Arg1:T399 Arg2:T400	
+R348	Flow Arg1:T400 Arg2:E128	
+R349	Flow Arg1:E128 Arg2:T402	
+R350	Flow Arg1:T402 Arg2:E129	
+T404	Condition 33231 33290	If you choose to link your Nintendo account to the Services
+E130	Condition:T404 
+T405	Sender 33234 33237	you
+T406	Recipient 33292 33294	we
+T407	Attribute 33308 33345	a unique user ID provided by Nintendo
+T408	Attribute 33350 33368	your email address
+T409	Subject 33234 33237	you
+R351	Flow Arg1:T409 Arg2:T405	
+R352	Flow Arg1:T405 Arg2:E130	
+R353	Flow Arg1:E130 Arg2:T406	
+R354	Flow Arg1:T406 Arg2:T407	
+R355	Flow Arg1:T407 Arg2:T408	
+T410	Attribute 29840 29949	Any information that you provide on or to a Third Party Service or that is collected by a Third Party Service
+T411	Subject 29861 29864	you
+T412	Sender 29861 29864	you
+T413	Recipient 29884 29903	Third Party Service
+T414	Recipient 29930 29949	Third Party Service
+T415	Recipient 29974 30022	the owner or operator of the Third Party Service
+T416	Consequence 30030 30081	subject to the owner’s or operator’s privacy policy
+E131	Consequence:T416 
+R356	Flow Arg1:T411 Arg2:T412	
+R357	Flow Arg1:T412 Arg2:T410	
+R358	Flow Arg1:T410 Arg2:T413	
+R359	Flow Arg1:T413 Arg2:T414	
+R360	Flow Arg1:T414 Arg2:T415	
+R361	Flow Arg1:T415 Arg2:E131	
+T417	Attribute 29435 29468	Any Personal Data that we collect
+T418	Recipient 29458 29460	we
+T419	Condition 29472 29553	covered by the Privacy Policy in effect at the time such information is collected
+E132	Condition:T419 
+R362	Flow Arg1:T417 Arg2:T418	
+R363	Flow Arg1:T418 Arg2:E132	
+T420	Condition 24747 24795	Unless stated otherwise for a particular Service
+E133	Condition:T420 
+T421	Subject 24797 24805	children
+T422	Sender 24797 24805	children
+T423	Recipient 24847 24849	we
+T424	Modality 24850 24856	do not
+E134	Modality:T424 
+T425	Attribute 24865 24878	Personal Data
+T426	Subject 24884 24888	them
+T427	Sender 24884 24888	them
+T428	Condition 24890 24921	We define “children” as follows
+E135	Condition:T428 
+T429	Condition 24926 24972	Residents of the UK: anyone under 13 years old
+E136	Condition:T429 
+T430	Condition 24977 25118	Residents of the EEA: anyone under 16 years old, or the age needed to consent to the processing of personal data in your country of residence
+E137	Condition:T430 
+T431	Condition 25123 25184	Residents of the Republic of Korea, anyone under 14 years old
+E138	Condition:T431 
+T432	Condition 25189 25321	Residents of other regions: anyone under 13 years old or the age needed to consent to the processing of personal data in that region
+E139	Condition:T432 
+R364	Flow Arg1:E133 Arg2:T421	
+R365	Flow Arg1:T421 Arg2:T422	
+R366	Flow Arg1:T422 Arg2:T423	
+R367	Flow Arg1:T423 Arg2:E134	
+R368	Flow Arg1:E134 Arg2:T425	
+R369	Flow Arg1:T425 Arg2:T426	
+R370	Flow Arg1:T426 Arg2:T427	
+R371	Flow Arg1:T427 Arg2:E135	
+R372	Flow Arg1:E135 Arg2:E136	
+R373	Flow Arg1:E136 Arg2:E137	
+R374	Flow Arg1:E137 Arg2:E138	
+R375	Flow Arg1:E138 Arg2:E139	
+T433	Condition 25412 25529	For Services that do permit Child participation, parents or legal guardians ("Parents") must provide verified consent
+E140	Condition:T433 
+T434	Subject 25440 25445	Child
+T435	Sender 25461 25487	parents or legal guardians
+R376	Flow Arg1:E139 Arg2:E140	
+R377	Flow Arg1:E140 Arg2:T434	
+R378	Flow Arg1:T434 Arg2:T435	
+T436	Condition 26465 26504	Verifiable parental consent is required
+E141	Condition:T436 
+T437	Subject 26549 26556	child's
+T438	Attribute 26557 26570	Personal Data
+R379	Flow Arg1:E141 Arg2:T437	
+R380	Flow Arg1:T437 Arg2:T438	
+T439	Recipient 26572 26579	Niantic
+T440	Modality 26580 26588	will not
+E142	Modality:T440 
+T441	Attribute 26619 26632	Personal Data
+T442	Subject 26640 26645	child
+T443	Sender 26649 26673	their parent or guardian
+T444	Condition 26674 26703	does not provide such consent
+E143	Condition:T444 
+T445	Recipient 26705 26707	We
+T446	Modality 26708 26711	may
+E144	Modality:T446 
+R381	Flow Arg1:T439 Arg2:E142	
+R382	Flow Arg1:E142 Arg2:T441	
+R383	Flow Arg1:T441 Arg2:T442	
+R384	Flow Arg1:T442 Arg2:T443	
+R385	Flow Arg1:T443 Arg2:E143	
+T447	Sender 26718 26723	Child
+T448	Attribute 26737 26759	Parent’s email address
+T449	Subject 26737 26743	Parent
+T450	Aim 26769 26792	to request this consent
+E145	Aim:T450 
+T451	Condition 26798 26892	the Parent’s email address will be deleted if consent is not provided within a reasonable time
+E146	Condition:T451 
+R386	Flow Arg1:T445 Arg2:E144	
+R387	Flow Arg1:E144 Arg2:T447	
+R388	Flow Arg1:T447 Arg2:T449	
+R389	Flow Arg1:T449 Arg2:T448	
+R390	Flow Arg1:T448 Arg2:E145	
+R391	Flow Arg1:E145 Arg2:E146	
+T452	Attribute 27313 27333	Any such information
+T453	Recipient 27350 27362	SuperAwesome
+T454	Condition 27388 27424	in accordance with their own Privacy
+E147	Condition:T454 
+R392	Flow Arg1:T452 Arg2:T453	
+R393	Flow Arg1:T453 Arg2:E147	
+T455	Aim 27573 27598	For user account creation
+E148	Aim:T455 
+T456	Recipient 27600 27607	Niantic
+T457	Attribute 27621 27641	the in-game username
+T458	Sender 27646 27651	Child
+T459	Subject 27646 27651	Child
+T460	Attribute 27684 27742	internal account IDs that we assign to the Child’s account
+T461	Subject 27727 27732	Child
+T462	Sender 27727 27732	Child
+T463	Condition 27749 27777	with the parent’s permission
+E149	Condition:T463 
+T464	Attribute 27779 27813	the Child’s personal email address
+T465	Subject 27783 27788	Child
+T466	Sender 27783 27788	Child
+T467	Condition 27815 27827	if available
+E150	Condition:T467 
+T468	Recipient 27830 27832	We
+T469	Attribute 27838 27854	that information
+T470	Modality 27833 27837	need
+E151	Modality:T470 
+T471	Aim 27855 27959	to authenticate the Child’s account, to make sure the Child is eligible and able to receive the Services
+E152	Aim:T471 
+T472	Subject 27875 27880	Child
+T473	Subject 27909 27914	Child
+T474	Consequence 27961 28027	and so that the Child receives the correct version of the Services
+E153	Consequence:T474 
+R394	Flow Arg1:E148 Arg2:T456	
+R395	Flow Arg1:T456 Arg2:T457	
+R396	Flow Arg1:T457 Arg2:T459	
+R397	Flow Arg1:T459 Arg2:T458	
+R398	Flow Arg1:T458 Arg2:T460	
+R399	Flow Arg1:T460 Arg2:T461	
+R400	Flow Arg1:T461 Arg2:T462	
+R401	Flow Arg1:T462 Arg2:E149	
+R402	Flow Arg1:E149 Arg2:T465	
+R403	Flow Arg1:T465 Arg2:T466	
+R404	Flow Arg1:T466 Arg2:T464	
+R405	Flow Arg1:T464 Arg2:E150	
+R406	Flow Arg1:E150 Arg2:T468	
+R407	Flow Arg1:T468 Arg2:E151	
+R408	Flow Arg1:E151 Arg2:T469	
+R409	Flow Arg1:T469 Arg2:T472	
+R410	Flow Arg1:T472 Arg2:E152	
+R411	Flow Arg1:E152 Arg2:T473	
+R412	Flow Arg1:T473 Arg2:E153	
+T475	Condition 28029 28071	As the Child accesses and uses the Service
+E154	Condition:T475 
+T476	Subject 28036 28041	Child
+T477	Recipient 28073 28080	Niantic
+T478	Attribute 28111 28188	Child’s device location and other Personal Data listed in this Privacy Policy
+T479	Sender 28111 28116	Child
+T480	Subject 28111 28116	Child
+T481	Aim 28189 28256	for the purpose of operating and providing the Service to the Child
+E155	Aim:T481 
+T482	Subject 28251 28256	Child
+T483	Condition 28295 28339	If we need to collect additional information
+E156	Condition:T483 
+T484	Recipient 28298 28300	we
+T485	Attribute 28317 28339	additional information
+T486	Aim 28340 28358	for other purposes
+E157	Aim:T486 
+T487	Recipient 28359 28361	we
+T488	Condition 28362 28393	will first seek your permission
+E158	Condition:T488 
+R413	Flow Arg1:T476 Arg2:E154	
+R414	Flow Arg1:E154 Arg2:T477	
+R415	Flow Arg1:T477 Arg2:T480	
+R416	Flow Arg1:T480 Arg2:T479	
+R417	Flow Arg1:T479 Arg2:T478	
+R418	Flow Arg1:T478 Arg2:E155	
+R419	Flow Arg1:E155 Arg2:T482	
+R420	Flow Arg1:T482 Arg2:T484	
+R421	Flow Arg1:T484 Arg2:E156	
+R422	Flow Arg1:E156 Arg2:T485	
+R423	Flow Arg1:T485 Arg2:E157	
+R424	Flow Arg1:E157 Arg2:T487	
+R425	Flow Arg1:T487 Arg2:E158	
+T489	Sender 28640 28647	Niantic
+T490	Modality 28648 28673	has a legitimate interest
+E159	Modality:T490 
+T491	Attribute 28692 28740	Child’s Personal Data collected via the Services
+T492	Subject 28692 28697	Child
+T493	Recipient 28744 28762	external providers
+T494	Aim 28763 28826	for the sole purpose of administering or providing the Services
+E160	Aim:T494 
+R426	Flow Arg1:T489 Arg2:E159	
+R427	Flow Arg1:E159 Arg2:T492	
+R428	Flow Arg1:T492 Arg2:T491	
+R429	Flow Arg1:T491 Arg2:T493	
+R430	Flow Arg1:T493 Arg2:E160	

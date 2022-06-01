@@ -1,0 +1,147 @@
+T137	Subject 1162 1166	your
+T138	Attribute 1144 1172	information about your visit
+T139	Recipient 1111 1113	we
+T140	Transmission_Principle 1024 1072	during your visit but browse through the website
+E58	Transmission_Principle:T140 
+T141	Transmission_Principle 1023 1042;1074 1085	 during your visit  read pages,
+E59	Transmission_Principle:T141 
+T142	Transmission_Principle 1024 1042;1089 1110	during your visit  download information,
+E60	Transmission_Principle:T142 
+T143	Transmission_Principle 1172 1186	 automatically
+E61	Transmission_Principle:T143 
+*	F19 T143 T137 T140 T142 T139 T141 T138
+T144	Attribute 1321 1341	 The Internet domain
+T145	Attribute 1484 1494	IP address
+T146	Attribute 1642 1661	The type of browser
+T147	Attribute 1666 1706	operating system used to access our site
+T148	Attribute 1711 1748	The date and time you access our site
+T149	Attribute 1753 1772	The pages you visit
+T150	Attribute 1834 1861	the address of that website
+T151	Recipient 1241 1243	We
+T152	Transmission_Principle 1244 1257	automatically
+E62	Transmission_Principle:T152 
+T153	Transmission_Principle 1778 1832	If you linked to the FEMA website from another website
+E63	Transmission_Principle:T153 
+T154	Transmission_Principle 1887 1935	to help us make our site more useful to visitors
+E64	Transmission_Principle:T154 
+T155	Transmission_Principle 1939 1988	to learn about the number of visitors to our site
+E65	Transmission_Principle:T155 
+T156	Transmission_Principle 1938 1957;1997 2034	 to learn about the types of technology our visitors use.
+E66	Transmission_Principle:T156 
+*	F20 T145 T153 T149 T147 T152 T151 T154 T156 T150 T148 T155 T144 T146
+T157	Sender 2489 2493	FEMA
+T158	Subject 2512 2518	child�
+T159	Attribute 2520 2534	e-mail address
+T160	Transmission_Principle 2411 2487	In instances where a child under the age of 13 submits a question or comment
+E67	Transmission_Principle:T160 
+T161	Transmission_Principle 2535 2560	to respond to the inquiry
+E68	Transmission_Principle:T161 
+T162	Transmission_Principle 2565 2637	will delete the message in accordance with its approved records schedule
+E69	Transmission_Principle:T162 
+*	F21 T161 T157 T160 T158 T159 T162
+T163	Sender 2131 2162	Certain areas of FEMA�s website
+T164	Attribute 2171 2220	disaster-related educational content for children
+*	F22 T164 T163
+T165	Sender 2370 2408	children under the age of 13 years old
+T166	Attribute 2344 2364	personal information
+T167	Recipient 2223 2227	FEMA
+T168	Transmission_Principle 2244 2303	complying with the Children�s Online Privacy Protection Act
+E70	Transmission_Principle:T168 
+*	F23 T167 T165 T168 T166
+T169	Sender 3099 3114	user's computer
+T170	Attribute 3035 3078	transaction consists of a separate "signal"
+T171	Recipient 3118 3129	FEMA's site
+T172	Transmission_Principle 2991 3029	When a user "checks off" a publication
+E71	Transmission_Principle:T172 
+*	F24 T171 T169 T172 T170
+T173	Sender 3193 3205	 FEMA server
+T174	Attribute 3211 3222	 a "cookie"
+T175	Recipient 3235 3250	user's computer
+T176	Transmission_Principle 3131 3188	In order to maintain a complete record of the total order
+E72	Transmission_Principle:T176 
+T177	Transmission_Principle 3258 3307	for the purposes of identifying that user's order
+E73	Transmission_Principle:T177 
+*	F25 T175 T177 T176 T174 T173
+T178	Attribute 3862 3898	number of unique visitors to a page 
+T179	Attribute 3902 3971	the navigation the visitor took to get to a specific piece of content
+T180	Recipient 3657 3688	Department of Homeland Security
+T181	Transmission_Principle 3778 3814	helps the Department gather feedback
+E74	Transmission_Principle:T181 
+T182	Transmission_Principle 3993 4043	use this data to make modifications to the website
+E75	Transmission_Principle:T182 
+T183	Transmission_Principle 4044 4114	to improve the user experience and monitor the traffic on the website.
+E76	Transmission_Principle:T183 
+*	F26 T179 T183 T181 T180 T178 T182
+T184	Attribute 10838 10914	he number of times a map is accessed via the mapping feature on the FEMA App
+T185	Recipient 10743 10752	Microsoft
+*	F27 T184 T185
+T186	Sender 10398 10401	App
+T187	Attribute 10412 10443	location data (County and State
+T188	Attribute 10470 10494	a unique device token ID
+T189	Recipient 10498 10502	FEMA
+T190	Transmission_Principle 10502 10543	 to allow for personalized weather alerts
+E77	Transmission_Principle:T190 
+*	F28 T188 T189 T187 T190 T186
+T191	Sender 10163 10166	App
+T192	Attribute 10182 10215	photos/texts uploaded by the user
+T193	Attribute 10228 10250	geospatial coordinates
+*	F29 T192 T193 T191
+T194	Attribute 7297 7302;7314 7322	host  traffic 
+T195	Attribute 7306 7314;7314 7322	network  traffic 
+T196	Recipient 7233 7259	government computer system
+T197	Transmission_Principle 7137 7163	For site security purposes
+E78	Transmission_Principle:T197 
+T198	Transmission_Principle 7168 7226	to ensure that this service remains available to all users
+E79	Transmission_Principle:T198 
+T199	Transmission_Principle 7322 7414	to identify unauthorized attempts to upload or change information, or otherwise cause damage
+E80	Transmission_Principle:T199 
+*	F30 T198 T196 T194 T199 T195 T197
+T200	Attribute 6844 6852	Evidence
+T201	Recipient 6886 6913	law enforcement authorities
+T202	Transmission_Principle 6918 7062	result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996
+E81	Transmission_Principle:T202 
+*	F31 T201 T200 T202
+T203	Attribute 7502 7527	identify individual users
+T204	Attribute 7511 7528;7537 7550	individual users  usage habits.
+T205	Transmission_Principle 7425 7470	for authorized law enforcement investigations
+E82	Transmission_Principle:T205 
+*	F32 T203 T205 T204
+T206	Sender 4142 4148	Google
+T207	Attribute 4156 4162	cookie
+T208	Attribute 4589 4612	what content was viewed
+T209	Attribute 4616 4656	 how you arrived at the specific content
+T210	Attribute 4661 4730	your ISP provider including the ISP provider�s geographic information
+T211	Attribute 4735 4785	the time spent viewing a specific piece of content
+T212	Attribute 4790 4826	the time spent on the entire website
+T213	Attribute 4830 4867	 the path taken to access the website
+T214	Attribute 4876 4911	the connection speed of the session
+T215	Recipient 4171 4188	machine or device
+T216	Transmission_Principle 4115 4140	In order to use this tool
+E83	Transmission_Principle:T216 
+T217	Transmission_Principle 4215 4228	automatically
+E84	Transmission_Principle:T217 
+*	F33 T217 T207 T208 T216 T214 T209 T210 T213 T206 T215 T212 T211
+T218	Sender 5169 5182	 your machine
+T219	Attribute 5124 5128	data
+T220	Recipient 5195 5211	 Google�s system
+T221	Transmission_Principle 5132 5145	automatically
+E85	Transmission_Principle:T221 
+T222	Transmission_Principle 5218 5249	immediately aggregates the data
+E86	Transmission_Principle:T222 
+*	F34 T218 T222 T221 T219 T220
+T223	Sender 5412 5417	users
+T224	Attribute 5481 5492	information
+T225	Attribute 5532 5573	 not share the aggregate data with Google
+T226	Attribute 5388 5402	aggregate data
+T227	Recipient 5452 5462	Department
+T228	Transmission_Principle 5493 5514	for internal purposes
+E87	Transmission_Principle:T228 
+T229	Transmission_Principle 5417 5446	 for a particular time period
+E88	Transmission_Principle:T229 
+*	F35 T225 T224 T229 T226 T227 T223 T228
+T230	Sender 5575 5577	We
+T231	Attribute 5648 5684	 to help improve the user experience
+T232	Recipient 5619 5648	 our partners and contractors
+T233	Transmission_Principle 5706 5785	retain the aggregated data as long as required per our records retention policy
+E89	Transmission_Principle:T233 
+*	F36 T231 T233 T232 T230
