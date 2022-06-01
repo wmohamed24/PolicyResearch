@@ -1,0 +1,9 @@
+ Niantic will not collect, use, or disclose any Personal Data from a child if their parent or guardian does not provide such consent.  We may ask a Child to provide a Parent’s email address in order to request this consent, and the Parent’s email address will be deleted if consent is not provided within a reasonable time. 
+Attribute: [Parent’s email address]
+Subject: [Parent]
+Modality: [may]
+Recipient: [We]
+Sender: [Child]
+Condition: [the Parent’s email address will be deleted if consent is not provided within a reasonable time]
+Aim: [to request this consent]
+Consequence: []

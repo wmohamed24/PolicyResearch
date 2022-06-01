@@ -1,0 +1,10 @@
+
+	•	If you elect to import your device’s address book contacts to find out which of your contacts uses our Services and to send them Friend requests, or invite them to join you in our games or other aspects of our Services, we will periodically sync your contacts’ information, including phone number and email, to our servers. 
+Attribute: [sync your contacts’ information, including phone number and email, to our servers]
+Subject: [you]
+Modality: []
+Recipient: [we]
+Sender: [you]
+Condition: [If you elect to import your device’s address book contacts]
+Aim: []
+Consequence: []

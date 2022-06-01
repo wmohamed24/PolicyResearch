@@ -1,0 +1,9 @@
+ When you use the Services, and in particular when you play our games, use social features within those games (including cross-game features), or take part in live events, we will share certain Personal Data with other players.  This Personal Data includes your in-game profile (such as your username, your avatar, your online status, and your team), your in-game actions and achievements, real-world locations associated with your gameplay, or with gameplay resources you interacted with when playing the game (for example PokéStops within Pokémon GO, Fortresses within Harry Potter: Wizards Unite, or Portals within Ingress), and your in-game messages and related content you share with other players. 
+Attribute: [certain Personal Data/your in-game profile/your username, your avatar, your online status, and your team/your in-game actions and achievements/real-world locations associated with your gameplay, or with gameplay resources you interacted with when playing the game/your in-game messages and related content]
+Subject: [you/you/you]
+Modality: []
+Recipient: [we]
+Sender: [you/you/you]
+Condition: [When you use the Services/when you play our games/use social features within those games/take part in live events]
+Aim: []
+Consequence: []

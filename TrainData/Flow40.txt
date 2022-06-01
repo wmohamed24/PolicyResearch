@@ -1,0 +1,9 @@
+ We only share information about you to government or law enforcement officials or private parties when we reasonably believe necessary or appropriate: (a) to respond to claims, legal process (including subpoenas and warrants); (b) to protect our property, rights, and safety and the property, rights, and safety of a third party or the public in general; and (c) to investigate and stop any activity that we consider illegal, unethical, or legally actionable.  We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. 
+Attribute: [information about you]
+Subject: [you]
+Modality: []
+Recipient: [government or law enforcement officials or private parties]
+Sender: [We]
+Condition: [when we reasonably believe necessary or appropriate]
+Aim: [to respond to claims, legal process (including subpoenas and warrants/protect our property, rights, and safety and the property, rights, and safety of a third party or the public in general/to investigate and stop any activity that we consider illegal, unethical, or legally actionable]
+Consequence: []

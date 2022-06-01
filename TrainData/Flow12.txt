@@ -1,0 +1,10 @@
+
+	•	You also give us Personal Data when you make a purchase through us, subscribe to our publications, register for a live event, enter a competition, promotion, sweepstakes or survey or communicate with us.  Depending on which of these Services you use, that may include your name, mailing address, phone number, country of residency, age, and email address.  We use that information to fulfil those Services to you and to provide related customer support to you. 
+Attribute: [Personal Data/your name, mailing address, phone number, country of residency, age, and email address/that information]
+Subject: [You/you/you/you]
+Modality: [may]
+Recipient: [us/We]
+Sender: [You/you]
+Condition: [when you make a purchase through us,/subscribe to our publications/register for a live event/enter a competition, promotion/sweepstakes or survey or communicate with us/Depending on which of these Services you use,]
+Aim: [to fulfil those Services to you and to provide related customer support to you.]
+Consequence: []

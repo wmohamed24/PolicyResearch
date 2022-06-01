@@ -1,0 +1,9 @@
+ These external service providers have access to your Personal Data only for the purpose of performing services on our behalf, in compliance with this Privacy Policy, and we make sure each one is contractually obliged not to disclose or use your Personal Data for any other purpose. 
+Attribute: [your Personal Data]
+Subject: []
+Modality: [obliged not to disclose or use your Personal Data for any other purpose]
+Recipient: [These external service providers]
+Sender: []
+Condition: [only for the purpose of performing services on our behalf, in compliance with this Privacy Policy]
+Aim: []
+Consequence: []

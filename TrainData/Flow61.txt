@@ -1,0 +1,10 @@
+
+Verifiable parental consent is required for the collection, use, or disclosure of a child's Personal Data. 
+Attribute: [Personal Data]
+Subject: [child's]
+Modality: []
+Recipient: []
+Sender: []
+Condition: [Verifiable parental consent is required]
+Aim: []
+Consequence: []

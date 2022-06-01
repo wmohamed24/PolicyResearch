@@ -1,0 +1,10 @@
+
+	•	You must have an account with a supported external single sign-on service to use our Services.  As such, the Personal Data we collect also depends on which external accounts you choose to use, their privacy policy, and what your privacy settings with those services allow us to see when you use their services to access Niantic Services. 
+Attribute: [the Personal Data/when you use their services to access Niantic Services]
+Subject: [you]
+Modality: []
+Recipient: [we]
+Sender: []
+Condition: [You must have an account with a supported external single sign-on service/depends on which external accounts you choose to use/their privacy policy,/what your privacy settings with those services]
+Aim: []
+Consequence: [to use our Services/allow]

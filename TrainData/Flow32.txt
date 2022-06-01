@@ -1,0 +1,10 @@
+
+Some external service providers may also collect information directly from you (for example, a payment processor may request your billing and financial information) as a Third Party Service in accordance with their own privacy policy.  Such external service provider does not share your financial information, like credit card number, with Niantic, but it may share limited information with us related to your purchase, like your zip or postal code. 
+Attribute: [information/your billing and financial information/your financial information/credit card number/limited information/zip/postal code]
+Subject: [you]
+Modality: [may/may/does not share/may]
+Recipient: [Some external service providers/payment processor/external service provider/it]
+Sender: [you]
+Condition: [in accordance with their own privacy policy/with us related to your purchase]
+Aim: []
+Consequence: []

@@ -1,0 +1,9 @@
+ With your permission we use your device’s health app (Apple HealthKit if you use an Apple device, or Google Fit if you use an Android device) to collect your fitness activity data: we read and/or write your fitness activity data to your device’s health app to operate background activity tracking and to ensure you get “credit” in your device’s health app for all of the walking you do while playing our games. 
+Attribute: [your device’s health app/Apple HealthKit/Google Fit/your fitness activity data/your fitness activity data]
+Subject: []
+Modality: []
+Recipient: [we/we]
+Sender: []
+Condition: [With your permission/if you use an Apple device/if you use an Android device]
+Aim: [to collect/to operate background activity tracking and to ensure you get “credit” in your device’s health app for all of the walking you do while playing our games]
+Consequence: []

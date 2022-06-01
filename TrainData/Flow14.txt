@@ -1,0 +1,11 @@
+
+In addition, we have and rely on a legitimate interest in using your Personal Data as follows:
+	•	Using your IP address, browser type, operating system, the web page you were visiting before accessing our Services, the pages of our Services which you browsed or the features you used, and the time spent on those pages or features, the links on our Services that you click on, device and advertising identifiers, age, as well as actions you take during gameplay, your in-game user settings and preferences and your in-app purchases to understand who is using our Services and how. 
+Attribute: [your IP address/browser type/operating system,/the web page you were visiting before accessing our Services/the pages of our Services which you browsed or the features you used,/the time spent on those pages or features/the links on our Services that you click on/device and advertising identifiers, age, as well as actions you take during gameplay, your in-game user settings and preferences and your in-app purchases]
+Subject: [you/you/you/you]
+Modality: []
+Recipient: []
+Sender: []
+Condition: []
+Aim: [to understand who is using our Services and how.]
+Consequence: []

@@ -1,0 +1,10 @@
+
+	◦	If you choose to link your Facebook account to the Services, we will collect a unique user ID provided by Facebook and, if permitted by you, your Facebook registered email address. 
+Attribute: [a unique user ID provided by Facebook/your Facebook registered email address.]
+Subject: [you/you]
+Modality: []
+Recipient: [we]
+Sender: [you/you]
+Condition: [If you choose to link your Facebook account to the Services/if permitted by you]
+Aim: []
+Consequence: []

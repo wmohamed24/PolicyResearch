@@ -1,0 +1,10 @@
+ 
+	•	If you elect to enable the Facebook User Friends permission available in some of our games, we will import from your linked Facebook account the list of your friends who also play the game and enabled Facebook User Friends.  If you enable that permission, your Facebook profile picture and the name on your Facebook account will be visible to your friends in-game. 
+Attribute: [the list of your friends who also play the game/your Facebook profile picture and the name on your Facebook account]
+Subject: [you/you]
+Modality: []
+Recipient: [we/friends in-game]
+Sender: [you/you]
+Condition: [If you elect to enable the Facebook User Friends permission available in some of our games/enabled Facebook User Friends/If you enable that permission]
+Aim: []
+Consequence: []

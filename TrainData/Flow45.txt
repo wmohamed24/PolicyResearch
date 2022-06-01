@@ -1,0 +1,9 @@
+ You can sign up for Pokémon GO using your external Pokémon Trainer Club (“PTC”) account administered by The Pokémon Company International (“TPCI”). 
+Attribute: []
+Subject: []
+Modality: []
+Recipient: []
+Sender: []
+Condition: [You can sign up for Pokémon GO using your external Pokémon Trainer Club (“PTC”)/If you choose to do so]
+Aim: []
+Consequence: []

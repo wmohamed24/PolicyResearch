@@ -1,0 +1,10 @@
+
+	•	Analyzing your in-game actions and achievements to show you rewards, promotions, or other offers about our Services that are tailored to your personal user experience. 
+Attribute: [your in-game actions and achievements]
+Subject: [you]
+Modality: []
+Recipient: []
+Sender: []
+Condition: []
+Aim: [to show you rewards, promotions, or other offers about our Services that are tailored to your personal user experience]
+Consequence: []

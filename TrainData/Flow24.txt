@@ -1,0 +1,10 @@
+ 
+	•	If you elect to add information about Niantic live or in-game events to your mobile calendar, we will, with your permission, access your device’s calendar and write in these events.  We do not access or collect any other information from your calendar. 
+Attribute: [your device’s calendar/any other information from your calendar]
+Subject: [you]
+Modality: [do not]
+Recipient: [we/We]
+Sender: [you]
+Condition: [If you elect to add information about Niantic live or in-game events to your mobile calendar/with your permission]
+Aim: []
+Consequence: []

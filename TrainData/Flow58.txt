@@ -1,0 +1,9 @@
+ Any information that you provide on or to a Third Party Service or that is collected by a Third Party Service is provided directly to the owner or operator of the Third Party Service and is subject to the owner’s or operator’s privacy policy. 
+Attribute: [Any information that you provide on or to a Third Party Service or that is collected by a Third Party Service]
+Subject: [you]
+Modality: []
+Recipient: [Third Party Service/Third Party Service/the owner or operator of the Third Party Service]
+Sender: [you]
+Condition: []
+Aim: []
+Consequence: [subject to the owner’s or operator’s privacy policy]

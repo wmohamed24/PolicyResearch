@@ -1,0 +1,9 @@
+ If we are acquired by a third party as a result of a transaction such as a merger, acquisition, or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your Personal Data, will be disclosed or transferred to a third party acquirer in connection with the transaction. 
+Attribute: [some or all of our assets, including your Personal Data]
+Subject: []
+Modality: []
+Recipient: [third party/third party]
+Sender: []
+Condition: [If we are acquired by a third party as a result of a transaction such as a merger, acquisition, or asset sale/if our assets are acquired by a third party in the event we go out of business or enter bankruptcy]
+Aim: []
+Consequence: [will be disclosed or transferred to a third party acquirer in connection with the transaction]

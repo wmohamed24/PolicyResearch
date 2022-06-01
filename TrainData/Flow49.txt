@@ -1,0 +1,9 @@
+ If you are registering your PTC account on behalf of your authorized child we will also collect some Personal Data about your child. 
+Attribute: [some Personal Data about your child.]
+Subject: [your child]
+Modality: []
+Recipient: [we]
+Sender: [you]
+Condition: [If you are registering your PTC account on behalf of your authorized child]
+Aim: []
+Consequence: []

@@ -1,0 +1,10 @@
+
+	•	Using your contact information, namely your email address in order to communicate with you to provide technical and customer support. 
+Attribute: [your contact information, namely your email address]
+Subject: [you]
+Modality: []
+Recipient: []
+Sender: []
+Condition: []
+Aim: [in order to communicate with you to provide technical and customer support]
+Consequence: []

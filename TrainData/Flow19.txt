@@ -1,0 +1,12 @@
+
+	•	To make legal or regulatory disclosures and to establish, exercise, or defend legal claims. 
+We will only use your Personal Data to do the following if we have your consent:
+	•	If you elect to turn on background activity tracking in our Services (for example Adventure Sync in Pokémon GO) we will collect your Personal Data as you use the Services as well as in the background when you do not have the Services open on your device. 
+Attribute: [Personal Data]
+Subject: []
+Modality: []
+Recipient: [We]
+Sender: []
+Condition: [if we have your consent:]
+Aim: [to do the following]
+Consequence: []

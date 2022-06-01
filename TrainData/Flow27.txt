@@ -1,0 +1,10 @@
+
+	•	If you elect to upload content, such as photos or videos from your mobile device, into our Services, we will, with your permission, access your device’s media storage. 
+Attribute: [device’s media storage]
+Subject: [you]
+Modality: []
+Recipient: [we]
+Sender: [you]
+Condition: [If you elect to upload content, such as photos or videos from your mobile device, into our Services/with your permission/You can change your mind]
+Aim: []
+Consequence: []

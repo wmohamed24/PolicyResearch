@@ -1,0 +1,15 @@
+ Children
+Unless stated otherwise for a particular Service, children are not allowed to use the Services, and we do not collect Personal Data from them.  We define “children” as follows:
+	•	Residents of the UK: anyone under 13 years old. 
+	•	Residents of the EEA: anyone under 16 years old, or the age needed to consent to the processing of personal data in your country of residence. 
+	•	Residents of the Republic of Korea, anyone under 14 years old. 
+	•	Residents of other regions: anyone under 13 years old or the age needed to consent to the processing of personal data in that region. 
+For Services that do permit Child participation, parents or legal guardians ("Parents") must provide verified consent. 
+Attribute: [Personal Data]
+Subject: [children/them/Child]
+Modality: [do not]
+Recipient: [we]
+Sender: [children/them/parents or legal guardians]
+Condition: [Unless stated otherwise for a particular Service/We define “children” as follows/Residents of the UK: anyone under 13 years old/Residents of the EEA: anyone under 16 years old, or the age needed to consent to the processing of personal data in your country of residence/Residents of the Republic of Korea, anyone under 14 years old/Residents of other regions: anyone under 13 years old or the age needed to consent to the processing of personal data in that region/For Services that do permit Child participation, parents or legal guardians ("Parents") must provide verified consent]
+Aim: []
+Consequence: []

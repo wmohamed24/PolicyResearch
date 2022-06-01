@@ -1,0 +1,11 @@
+
+We need to collect and use certain Personal Data to provide the Services to you and fulfil the promises we make to you in the Terms of Service:
+	•	When you sign up for our Services you give us Personal Data voluntarily by providing it to us, for example when you sign up for an account.  We collect and use that information in order to authenticate you when you register an account and use the Services, to make sure you are eligible and able to receive the Services, and so that you receive the correct version of the Services.  That information includes your age, the in-game username you choose to use on our Services, and internal account IDs that we assign to your account. 
+Attribute: [Personal Data/that information/your age/in-game username/internal account IDs]
+Subject: [you/you/you/you/you/you]
+Modality: []
+Recipient: [us/us/We]
+Sender: [you/you/you]
+Condition: [When you sign up for our Services/voluntarily/when you sign up for an account.]
+Aim: [in order to authenticate you/to make sure you are eligible and able to receive the Services,]
+Consequence: [so that you receive the correct version of the Services]

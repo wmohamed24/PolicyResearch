@@ -1,0 +1,10 @@
+
+	◦	If you choose to link your Google account to the Services, we will collect your Google email address and an authentication token provided by Google. 
+Attribute: [Google email address and an authentication token provided by Google.]
+Subject: [you]
+Modality: []
+Recipient: [we]
+Sender: [you]
+Condition: [If you choose to link your Google account to the Services,]
+Aim: []
+Consequence: []

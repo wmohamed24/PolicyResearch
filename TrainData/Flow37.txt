@@ -1,0 +1,10 @@
+
+Information Shared Publicly: When you use the Services, and in particular when you play our games, use competitive features, or participate in our forums, the following information about you may be shared on web pages accessible to the public and therefore become publicly available: your username, in-game profile, achievements and public messages. 
+Attribute: [the following information/your username, in-game profile, achievements and public messages]
+Subject: [you/you/you]
+Modality: [may]
+Recipient: [the public]
+Sender: [you/you]
+Condition: [When you use the Services/when you play our games/use competitive features/participate in our forums]
+Aim: []
+Consequence: []

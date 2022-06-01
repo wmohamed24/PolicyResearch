@@ -1,0 +1,9 @@
+ If you are registering a Nintendo account on behalf of your authorized child we will also collect some Personal Data about your child. 
+Attribute: [some Personal Data about your child]
+Subject: [your authorized child]
+Modality: []
+Recipient: [we]
+Sender: [you]
+Condition: [If you are registering a Nintendo account on behalf of your authorized child]
+Aim: []
+Consequence: []

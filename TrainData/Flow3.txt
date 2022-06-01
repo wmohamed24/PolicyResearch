@@ -1,0 +1,11 @@
+ It does not cover information which cannot be used to identify you ("Anonymous Data"). 
+We need to collect and use certain Personal Data to provide the Services to you and fulfil the promises we make to you in the Terms of Service:
+	•	When you sign up for our Services you give us Personal Data voluntarily by providing it to us, for example when you sign up for an account. 
+Attribute: [certain Personal Data]
+Subject: [you/you]
+Modality: [need]
+Recipient: [We]
+Sender: []
+Condition: []
+Aim: [to provide the Services to you and fulfil the promises we make to you in the Terms of Service]
+Consequence: []

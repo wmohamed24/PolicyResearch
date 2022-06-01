@@ -1,0 +1,10 @@
+
+For US residents, after a Parent has registered a PTC account, TPCI will verify the Parent’s identity by asking for the sum of the first and last digits of the Parent’s social security number and the Parent’s name, date of birth, and street address. 
+Attribute: []
+Subject: []
+Modality: []
+Recipient: [TPCI]
+Sender: [Parent]
+Condition: [For U.S. residents, after a Parent has registered a PTC account, TPCI will verify the Parent’s identity]
+Aim: []
+Consequence: []

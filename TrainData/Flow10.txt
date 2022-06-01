@@ -1,0 +1,10 @@
+ Our Services include location based games whose core feature is to provide a gameplay experience tied to your real world location, so we need to know where you are to operate these games for you, and to plan the location of in-game resources (for example PokéStops within Pokémon GO).  We identify your location using a variety of technologies, including GPS, the WiFi points you are accessing the Service through and mobile/cell tower triangulation. 
+	•	We collect and use your device location information as you use our Services (and, if you elect to turn on background location tracking for our Services, while you are not directly interacting with the Services), including how you move around and events that occur during gameplay. 
+Attribute: [your device location information as you use our Services/how you move around and events that occur during gameplay./where you are/your location]
+Subject: [you/you/you/you/you]
+Modality: [need]
+Recipient: [We/we/We]
+Sender: [you/you]
+Condition: [if you elect to turn on background location tracking for our Services,]
+Aim: [to provide a gameplay experience tied to your real world location,/to operate these games for you, and to plan the location of in-game resources]
+Consequence: [while you are not directly interacting with the Services]

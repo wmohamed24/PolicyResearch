@@ -1,0 +1,9 @@
+ Niantic will not collect, use, or disclose any Personal Data from a child if their parent or guardian does not provide such consent. 
+Attribute: [Personal Data]
+Subject: [child]
+Modality: [will not]
+Recipient: [Niantic]
+Sender: [their parent or guardian]
+Condition: [does not provide such consent]
+Aim: []
+Consequence: []

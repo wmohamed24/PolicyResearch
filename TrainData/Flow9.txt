@@ -1,0 +1,10 @@
+
+	•	Depending on the particular Service you sign up for, we may support other external single sign-on services and collect additional Personal Data from them. 
+Attribute: [additional Personal Data from them]
+Subject: [you]
+Modality: [may support other external single sign-on services]
+Recipient: [we]
+Sender: [them]
+Condition: [Depending on the particular Service you sign up for]
+Aim: []
+Consequence: []

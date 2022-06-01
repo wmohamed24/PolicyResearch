@@ -1,0 +1,9 @@
+ As a Parent, you understand that Niantic has a legitimate interest in providing your Child’s information collected via the Services to third party providers for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy. 
+Attribute: [your Child’s information]
+Subject: [your Child]
+Modality: []
+Recipient: [third party]
+Sender: [Niantic]
+Condition: [collected via the Services]
+Aim: [for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy]
+Consequence: []

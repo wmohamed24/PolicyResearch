@@ -1,0 +1,9 @@
+ To do that, we need information about you.  Protecting your privacy is really important to us.  We only use your information where we have a legal basis to do so. 
+Attribute: [information/your information]
+Subject: [you]
+Modality: []
+Recipient: [we/We]
+Sender: []
+Condition: [where we have a legal basis to do so.]
+Aim: [To do that,]
+Consequence: []

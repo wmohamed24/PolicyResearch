@@ -1,0 +1,11 @@
+ We use background activity tracking to provide you certain functionalities in the Services such as in-game items and rewards tied to your fitness activity level and location, and alerts for nearby gameplay events. 
+We will only use your Personal Data to do the following if we have your consent:
+	•	If you elect to turn on background activity tracking in our Services (for example Adventure Sync in Pokémon GO) we will collect your Personal Data as you use the Services as well as in the background when you do not have the Services open on your device.  This includes your device location and your fitness activity data (such as Step Count, Calories Burned, and Distance Walked). 
+Attribute: [your Personal Data/your device location/your fitness activity data/Step Count/Calories Burned/Distance Walked/background activity tracking]
+Subject: [you]
+Modality: []
+Recipient: [we/We]
+Sender: [you]
+Condition: [If you elect to turn on background activity tracking in our Services/as you use the Services as well as in the background when you do not have the Services open on your device]
+Aim: [to provide you certain functionalities in the Services such as in-game items and rewards tied to your fitness activity level and location, and alerts for nearby gameplay events]
+Consequence: []

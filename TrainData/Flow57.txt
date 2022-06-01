@@ -1,0 +1,11 @@
+
+Additional Privacy Information for Pikmin Bloom
+If you choose to link your Nintendo account to the Services, we will collect a unique user ID provided by Nintendo and your email address on file with your Nintendo account (if available). 
+Attribute: [a unique user ID provided by Nintendo/your email address]
+Subject: [you]
+Modality: []
+Recipient: [we]
+Sender: [you]
+Condition: [If you choose to link your Nintendo account to the Services]
+Aim: []
+Consequence: []

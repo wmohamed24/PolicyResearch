@@ -1,0 +1,9 @@
+ If we need to collect additional information for other purposes we will first seek your permission.  As the Child accesses and uses the Service, Niantic will also collect and use the Child’s device location and other Personal Data listed in this Privacy Policy for the purpose of operating and providing the Service to the Child, as described in this Privacy Policy. 
+Attribute: [Child’s device location and other Personal Data listed in this Privacy Policy/additional information]
+Subject: [Child/Child/Child]
+Modality: []
+Recipient: [Niantic/we/we]
+Sender: [Child]
+Condition: [As the Child accesses and uses the Service/If we need to collect additional information/will first seek your permission]
+Aim: [for the purpose of operating and providing the Service to the Child/for other purposes]
+Consequence: []

@@ -1,0 +1,10 @@
+ Who decides how your information is used?
+Niantic, Inc.  (1 Ferry Building Suite 200, San Francisco, CA 94111) generally is the data controller responsible for making decisions about how we use your personal information .  If however you are based in the United Kingdom (UK), Russia or the European Economic Area (EEA), your data controller is Niantic International Limited in the UK (11th Floor Whitefriars, Lewins Mead, Bristol, United Kingdom, BS1 2NT). 
+Attribute: [your personal information/your data]
+Subject: []
+Modality: []
+Recipient: [Niantic, Inc./Niantic International Limited in the UK]
+Sender: []
+Condition: [If however you are based in the United Kingdom (UK), Russia or the European Economic Area (EEA),]
+Aim: []
+Consequence: []

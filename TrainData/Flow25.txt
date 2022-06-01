@@ -1,0 +1,10 @@
+
+	•	If you elect to connect your game account with an authorized external device, such as the Pokémon Go Plus or Poké Ball Plus, we request Bluetooth permissions from your mobile device in order to connect it with the external device and enable associated game features. 
+Attribute: [Bluetooth permissions from your mobile device]
+Subject: [you]
+Modality: []
+Recipient: [we]
+Sender: [you]
+Condition: [If you elect to connect your game account with an authorized external device, such as the Pokémon Go Plus or Poké Ball Plus]
+Aim: [in order to connect it with the external device and enable associated game features]
+Consequence: []

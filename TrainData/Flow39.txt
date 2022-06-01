@@ -1,0 +1,9 @@
+ We share Anonymous Data with third parties for industry and market analysis.  We may share Personal Data with our third-party publishing partners for their direct marketing purposes only if we have your express permission. 
+Attribute: [Personal Data]
+Subject: []
+Modality: [may]
+Recipient: [our third-party publishing partners]
+Sender: [We]
+Condition: [only if we have your express permission]
+Aim: [for their direct marketing purposes]
+Consequence: []

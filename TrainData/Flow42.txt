@@ -1,0 +1,11 @@
+
+If we transfer your Personal Data from the UK or the EEA to other countries, including the USA, we ensure that a similar degree of protection is provided to your Personal Data as within the UK or the EEA, as applicable, by ensuring that at least one of the following safeguards is implemented:
+	•	The country that your Personal Data is transferred to is a country that the European Commission (or the UK Government, if you are based in the UK) has deemed to provide an adequate level of protection for Personal Data as the UK or the EEA, as applicable. 
+Attribute: [your Personal Data/Personal Data]
+Subject: []
+Modality: []
+Recipient: [other countries]
+Sender: [we/we]
+Condition: [If we transfer your Personal Data from the UK or the EEA to other countries/ensure that a similar degree of protection is provided to your Personal Data]
+Aim: []
+Consequence: []

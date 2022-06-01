@@ -1,0 +1,10 @@
+
+Information Shared with Third Parties.  We share Anonymous Data with third parties for industry and market analysis. 
+Attribute: [Anonymous Data]
+Subject: []
+Modality: []
+Recipient: [third parties]
+Sender: [We]
+Condition: []
+Aim: [for industry and market analysis]
+Consequence: []

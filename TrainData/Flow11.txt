@@ -1,0 +1,12 @@
+
+	•	We also collect and use your in-game actions and achievements, as well as certain information about your mobile device (including device identifiers, device OS, model, configuration, settings and information about third party applications or software installed on your device), to operate the Services for you and to personalize your gameplay and user experience. 
+	•	We also use the information above to show in-game sponsored locations that are in your vicinity as part of the gameplay experience. 
+	•	We further use the information above in order to provide technical and customer support to you. 
+Attribute: [your in-game actions and achievements/certain information about your mobile device/device identifiers, device OS, model, configuration, settings and information about third party applications or software installed on your device/the information above/the information above]
+Subject: [you/you]
+Modality: []
+Recipient: [We/We/We]
+Sender: []
+Condition: []
+Aim: [to operate the Services for you and to personalize your gameplay and user experience/to show in-game sponsored locations that are in your vicinity as part of the gameplay experience/in order to provide technical and customer support to you.]
+Consequence: []

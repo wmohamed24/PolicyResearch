@@ -1,0 +1,10 @@
+
+	•	Using your email address and device information in order to share updates and news with you either within the games or by email. 
+Attribute: [your email address and device information]
+Subject: [you]
+Modality: []
+Recipient: []
+Sender: []
+Condition: [either within the games or by email.]
+Aim: [in order to share updates and news with you]
+Consequence: []

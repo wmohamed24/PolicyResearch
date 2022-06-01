@@ -1,0 +1,10 @@
+
+Parents have the right to refuse further collection, use, and/or disclosure of their Child’s Personal Data by notifying us. 
+Attribute: [Personal Data]
+Subject: [their Child]
+Modality: [refuse/further collection, use, and/or disclosure]
+Recipient: [us]
+Sender: [Parents]
+Condition: [by notifying us]
+Aim: []
+Consequence: []

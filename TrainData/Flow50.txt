@@ -1,0 +1,9 @@
+ The Parent will have to provide to TPCI certain Personal Data about the Child in accordance with the TPCI privacy policy.  Of that, Niantic will only collect from TPCI the Child’s personal email address, and the date when the Child will grow out of the age limits listed above. 
+Attribute: [certain Personal Data about the Child/personal email address/the date when the Child will grow out of the age limits listed above]
+Subject: [the Child]
+Modality: []
+Recipient: [TPCI]
+Sender: [The Parent]
+Condition: [in accordance with the TPCI privacy policy]
+Aim: []
+Consequence: []

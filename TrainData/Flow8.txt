@@ -1,0 +1,10 @@
+
+	◦	If you choose to link your Apple account to the Services, we will collect your email address on file with your Apple ID account or a private relayed email address if you use the Hide My Email option provided by Apple. 
+Attribute: [your email address on file with your Apple ID account/private relayed email address]
+Subject: [you/you]
+Modality: []
+Recipient: [we]
+Sender: [you/you]
+Condition: [If you choose to link your Apple account to the Services,/if you use the Hide My Email option]
+Aim: []
+Consequence: []

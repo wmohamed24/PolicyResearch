@@ -1,0 +1,9 @@
+ If you choose to do so, we will collect from TPCI your PTC registered email address, your PTC username and a unique PTC user ID. 
+Attribute: []
+Subject: [you]
+Modality: []
+Recipient: []
+Sender: []
+Condition: [If you choose to do so]
+Aim: []
+Consequence: []

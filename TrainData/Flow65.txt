@@ -1,0 +1,9 @@
+ For user account creation, Niantic will collect the in-game username the Child chooses to use on our Services, internal account IDs that we assign to the Child’s account, and, with the parent’s permission, the Child’s personal email address (if available).  We need that information to authenticate the Child’s account, to make sure the Child is eligible and able to receive the Services, and so that the Child receives the correct version of the Services. 
+Attribute: [the in-game username/internal account IDs that we assign to the Child’s account/the Child’s personal email address/that information]
+Subject: [Child/Child/Child/Child/Child]
+Modality: [need]
+Recipient: [Niantic/We]
+Sender: [Child/Child/Child]
+Condition: [with the parent’s permission/if available]
+Aim: [For user account creation/to authenticate the Child’s account, to make sure the Child is eligible and able to receive the Services]
+Consequence: [and so that the Child receives the correct version of the Services]

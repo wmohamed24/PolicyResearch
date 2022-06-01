@@ -1,0 +1,9 @@
+ Additionally, certain games link to third-party sharing features on your device that you can use to disclose Personal Data to others outside the Services; Niantic does not control and is not responsible for the practices of these third-party sharing features. 
+Attribute: [Personal Data]
+Subject: []
+Modality: []
+Recipient: [others outside the Services]
+Sender: []
+Condition: []
+Aim: []
+Consequence: []

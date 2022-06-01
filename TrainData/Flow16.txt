@@ -1,0 +1,10 @@
+
+	•	Using your internal account ID and in-game username in order to attribute to your account any user content (such as local points of interest) that you elect to submit to Niantic through the Services. 
+Attribute: [your internal account ID and in-game username]
+Subject: []
+Modality: []
+Recipient: []
+Sender: []
+Condition: [that you elect to submit to Niantic through the Services.]
+Aim: [in order to attribute to your account any user content]
+Consequence: []

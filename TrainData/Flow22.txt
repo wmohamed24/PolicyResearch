@@ -1,0 +1,9 @@
+ With your permission we use your device’s health app (Apple HealthKit if you use an Apple device, or Google Fit if you use an Android device) to collect your fitness activity data: we read and/or write your fitness activity data to your device’s health app to operate background activity tracking and to ensure you get “credit” in your device’s health app for all of the walking you do while playing our games.  We do not use data collected through Apple Health Kit or through Google Fit for marketing or advertising purposes.  Our Services cannot read from or write to your device’s health app without your consent. 
+Attribute: [data collected through Apple Health Kit or through Google Fit/your device’s health app]
+Subject: []
+Modality: [do not/cannot]
+Recipient: [We/Our Services]
+Sender: []
+Condition: [without your consent]
+Aim: [for marketing or advertising purposes]
+Consequence: []
